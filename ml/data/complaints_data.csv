@@ -1,0 +1,481 @@
+description,category,priority,zone
+Noticed this morning: Heavy gridlock on Main St during peak morning hours. (Zone: North Heights),Traffic,High,North Heights
+Dangerous situation! Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: East Industrial),Traffic,High,East Industrial
+Illegal parking blocking bus lane near Central Station. (Zone: East Industrial),Traffic,Medium,East Industrial
+Dangerous situation! Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: Downtown),Traffic,High,Downtown
+Please fix immediately: Speeding vehicles near elementary school zones. (Zone: North Heights),Traffic,High,North Heights
+Dangerous situation! Construction barrier left unattended on North Boulevard. (Zone: Downtown),Traffic,Medium,Downtown
+Hazard alert: Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: Downtown),Traffic,High,Downtown
+Noticed this morning: Road shoulder collapsed near South bridge entry. (Zone: North Heights),Traffic,High,North Heights
+Severe problem: Heavy commercial truck parked on narrow residential lane. (Zone: East Industrial),Traffic,Low,East Industrial
+Hazard alert: Missing stop sign at 4th and Elm street crossroad. (Zone: North Heights),Traffic,High,North Heights
+Persistent issue: Overflowing garbage bins along Commercial Road for 3 days. (Zone: South Park),Waste Management,High,South Park
+Reported by resident: Illegal dumping of household furniture and debris in public alley. (Zone: South Park),Waste Management,Medium,South Park
+Persistent issue: Uncollected trash bags attracting rodents near restaurant strip. (Zone: East Industrial),Waste Management,High,East Industrial
+Reported by resident: Broken recycling bin spilling paper waste across pavement. (Zone: West Suburbs),Waste Management,Low,West Suburbs
+Reported by resident: Severe stench from decaying organic waste near park entrance. (Zone: Downtown),Waste Management,High,Downtown
+Please fix immediately: Hazardous chemical containers left dumped beside riverbank. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Noticed this morning: Public litter bin damaged and overturned by wind. (Zone: East Industrial),Waste Management,Low,East Industrial
+Urgent attention required: Garbage truck missed scheduled collection on Oak Street. (Zone: Downtown),Waste Management,Medium,Downtown
+Community complaint: Plastic waste accumulation blocking rainwater drainage grate. (Zone: East Industrial),Waste Management,High,East Industrial
+Dangerous situation! Compactor machine malfunctioning at neighborhood recycling center. (Zone: East Industrial),Waste Management,Medium,East Industrial
+Noticed this morning: Dense black smoke emission from East Industrial factory chimney. (Zone: North Heights),Pollution,High,North Heights
+Reported by resident: Chemical odor spreading across residential neighborhood at night. (Zone: Downtown),Pollution,High,Downtown
+Reported by resident: Untreated industrial effluent discharging into local river stream. (Zone: Downtown),Pollution,High,Downtown
+Severe problem: Excessive noise pollution from illegal night construction site. (Zone: West Suburbs),Pollution,Medium,West Suburbs
+Reported by resident: Loud generator running continuously past midnight in quiet zone. (Zone: Downtown),Pollution,Medium,Downtown
+Severe dust pollution from unshielded building demolition site. (Zone: West Suburbs),Pollution,High,West Suburbs
+Hazard alert: Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: West Suburbs),Pollution,High,West Suburbs
+Dangerous situation! Toxic chemical spill reported on industrial park side road. (Zone: East Industrial),Pollution,High,East Industrial
+Reported by resident: Strong sulfur gas smell coming from open sewer line. (Zone: North Heights),Pollution,High,North Heights
+Severe problem: Excessive loudspeaker noise levels near hospital zone. (Zone: North Heights),Pollution,Medium,North Heights
+Noticed this morning: Streetlights failed on 3 consecutive blocks in South Park area. (Zone: East Industrial),Infrastructure,High,East Industrial
+Please fix immediately: Water main pipe bursting and flooding residential street. (Zone: Downtown),Infrastructure,High,Downtown
+Please fix immediately: Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: South Park),Infrastructure,Medium,South Park
+Noticed this morning: Fallen tree branch hanging precariously over power lines. (Zone: Downtown),Infrastructure,High,Downtown
+Please fix immediately: Exposed electrical wiring hanging from damaged street lamp pole. (Zone: Downtown),Infrastructure,High,Downtown
+Urgent attention required: Deep sinkhole opening up in middle of parking lot. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Community complaint: Broken handrail on pedestrian overpass walkway. (Zone: West Suburbs),Infrastructure,Medium,West Suburbs
+Hazard alert: Open manhole cover missing on busy walkway. (Zone: Downtown),Infrastructure,High,Downtown
+Hazard alert: Public park bench broken and splintered. (Zone: South Park),Infrastructure,Low,South Park
+Reported by resident: Burst water supply pipe wasting drinking water in downtown square. (Zone: East Industrial),Infrastructure,High,East Industrial
+Heavy gridlock on Main St during peak morning hours. (Zone: West Suburbs),Traffic,High,West Suburbs
+Urgent attention required: Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: Downtown),Traffic,High,Downtown
+Urgent attention required: Illegal parking blocking bus lane near Central Station. (Zone: West Suburbs),Traffic,Medium,West Suburbs
+Dangerous situation! Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: South Park),Traffic,High,South Park
+Reported by resident: Speeding vehicles near elementary school zones. (Zone: South Park),Traffic,High,South Park
+Community complaint: Construction barrier left unattended on North Boulevard. (Zone: Downtown),Traffic,Medium,Downtown
+Hazard alert: Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: West Suburbs),Traffic,High,West Suburbs
+Noticed this morning: Road shoulder collapsed near South bridge entry. (Zone: South Park),Traffic,High,South Park
+Dangerous situation! Heavy commercial truck parked on narrow residential lane. (Zone: North Heights),Traffic,Low,North Heights
+Please fix immediately: Missing stop sign at 4th and Elm street crossroad. (Zone: South Park),Traffic,High,South Park
+Dangerous situation! Overflowing garbage bins along Commercial Road for 3 days. (Zone: North Heights),Waste Management,High,North Heights
+Hazard alert: Illegal dumping of household furniture and debris in public alley. (Zone: South Park),Waste Management,Medium,South Park
+Uncollected trash bags attracting rodents near restaurant strip. (Zone: North Heights),Waste Management,High,North Heights
+Broken recycling bin spilling paper waste across pavement. (Zone: East Industrial),Waste Management,Low,East Industrial
+Persistent issue: Severe stench from decaying organic waste near park entrance. (Zone: North Heights),Waste Management,High,North Heights
+Hazardous chemical containers left dumped beside riverbank. (Zone: East Industrial),Waste Management,High,East Industrial
+Community complaint: Public litter bin damaged and overturned by wind. (Zone: Downtown),Waste Management,Low,Downtown
+Severe problem: Garbage truck missed scheduled collection on Oak Street. (Zone: West Suburbs),Waste Management,Medium,West Suburbs
+Hazard alert: Plastic waste accumulation blocking rainwater drainage grate. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Urgent attention required: Compactor machine malfunctioning at neighborhood recycling center. (Zone: South Park),Waste Management,Medium,South Park
+Reported by resident: Dense black smoke emission from East Industrial factory chimney. (Zone: East Industrial),Pollution,High,East Industrial
+Severe problem: Chemical odor spreading across residential neighborhood at night. (Zone: North Heights),Pollution,High,North Heights
+Untreated industrial effluent discharging into local river stream. (Zone: South Park),Pollution,High,South Park
+Severe problem: Excessive noise pollution from illegal night construction site. (Zone: West Suburbs),Pollution,Medium,West Suburbs
+Community complaint: Loud generator running continuously past midnight in quiet zone. (Zone: East Industrial),Pollution,Medium,East Industrial
+Noticed this morning: Severe dust pollution from unshielded building demolition site. (Zone: South Park),Pollution,High,South Park
+Dangerous situation! Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: East Industrial),Pollution,High,East Industrial
+Please fix immediately: Toxic chemical spill reported on industrial park side road. (Zone: Downtown),Pollution,High,Downtown
+Dangerous situation! Strong sulfur gas smell coming from open sewer line. (Zone: Downtown),Pollution,High,Downtown
+Noticed this morning: Excessive loudspeaker noise levels near hospital zone. (Zone: Downtown),Pollution,Medium,Downtown
+Streetlights failed on 3 consecutive blocks in South Park area. (Zone: Downtown),Infrastructure,High,Downtown
+Urgent attention required: Water main pipe bursting and flooding residential street. (Zone: North Heights),Infrastructure,High,North Heights
+Community complaint: Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: Downtown),Infrastructure,Medium,Downtown
+Please fix immediately: Fallen tree branch hanging precariously over power lines. (Zone: East Industrial),Infrastructure,High,East Industrial
+Urgent attention required: Exposed electrical wiring hanging from damaged street lamp pole. (Zone: North Heights),Infrastructure,High,North Heights
+Deep sinkhole opening up in middle of parking lot. (Zone: North Heights),Infrastructure,High,North Heights
+Reported by resident: Broken handrail on pedestrian overpass walkway. (Zone: South Park),Infrastructure,Medium,South Park
+Hazard alert: Open manhole cover missing on busy walkway. (Zone: North Heights),Infrastructure,High,North Heights
+Persistent issue: Public park bench broken and splintered. (Zone: North Heights),Infrastructure,Low,North Heights
+Hazard alert: Burst water supply pipe wasting drinking water in downtown square. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Please fix immediately: Heavy gridlock on Main St during peak morning hours. (Zone: East Industrial),Traffic,High,East Industrial
+Community complaint: Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: Downtown),Traffic,High,Downtown
+Dangerous situation! Illegal parking blocking bus lane near Central Station. (Zone: Downtown),Traffic,Medium,Downtown
+Community complaint: Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: East Industrial),Traffic,High,East Industrial
+Dangerous situation! Speeding vehicles near elementary school zones. (Zone: West Suburbs),Traffic,High,West Suburbs
+Reported by resident: Construction barrier left unattended on North Boulevard. (Zone: East Industrial),Traffic,Medium,East Industrial
+Persistent issue: Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: East Industrial),Traffic,High,East Industrial
+Persistent issue: Road shoulder collapsed near South bridge entry. (Zone: East Industrial),Traffic,High,East Industrial
+Community complaint: Heavy commercial truck parked on narrow residential lane. (Zone: South Park),Traffic,Low,South Park
+Urgent attention required: Missing stop sign at 4th and Elm street crossroad. (Zone: East Industrial),Traffic,High,East Industrial
+Dangerous situation! Overflowing garbage bins along Commercial Road for 3 days. (Zone: Downtown),Waste Management,High,Downtown
+Illegal dumping of household furniture and debris in public alley. (Zone: South Park),Waste Management,Medium,South Park
+Please fix immediately: Uncollected trash bags attracting rodents near restaurant strip. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Reported by resident: Broken recycling bin spilling paper waste across pavement. (Zone: Downtown),Waste Management,Low,Downtown
+Please fix immediately: Severe stench from decaying organic waste near park entrance. (Zone: North Heights),Waste Management,High,North Heights
+Hazard alert: Hazardous chemical containers left dumped beside riverbank. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Persistent issue: Public litter bin damaged and overturned by wind. (Zone: West Suburbs),Waste Management,Low,West Suburbs
+Garbage truck missed scheduled collection on Oak Street. (Zone: Downtown),Waste Management,Medium,Downtown
+Urgent attention required: Plastic waste accumulation blocking rainwater drainage grate. (Zone: East Industrial),Waste Management,High,East Industrial
+Severe problem: Compactor machine malfunctioning at neighborhood recycling center. (Zone: Downtown),Waste Management,Medium,Downtown
+Severe problem: Dense black smoke emission from East Industrial factory chimney. (Zone: East Industrial),Pollution,High,East Industrial
+Severe problem: Chemical odor spreading across residential neighborhood at night. (Zone: South Park),Pollution,High,South Park
+Severe problem: Untreated industrial effluent discharging into local river stream. (Zone: Downtown),Pollution,High,Downtown
+Hazard alert: Excessive noise pollution from illegal night construction site. (Zone: Downtown),Pollution,Medium,Downtown
+Please fix immediately: Loud generator running continuously past midnight in quiet zone. (Zone: Downtown),Pollution,Medium,Downtown
+Urgent attention required: Severe dust pollution from unshielded building demolition site. (Zone: Downtown),Pollution,High,Downtown
+Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: North Heights),Pollution,High,North Heights
+Dangerous situation! Toxic chemical spill reported on industrial park side road. (Zone: East Industrial),Pollution,High,East Industrial
+Noticed this morning: Strong sulfur gas smell coming from open sewer line. (Zone: South Park),Pollution,High,South Park
+Hazard alert: Excessive loudspeaker noise levels near hospital zone. (Zone: North Heights),Pollution,Medium,North Heights
+Community complaint: Streetlights failed on 3 consecutive blocks in South Park area. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Dangerous situation! Water main pipe bursting and flooding residential street. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Please fix immediately: Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: West Suburbs),Infrastructure,Medium,West Suburbs
+Persistent issue: Fallen tree branch hanging precariously over power lines. (Zone: North Heights),Infrastructure,High,North Heights
+Persistent issue: Exposed electrical wiring hanging from damaged street lamp pole. (Zone: North Heights),Infrastructure,High,North Heights
+Dangerous situation! Deep sinkhole opening up in middle of parking lot. (Zone: South Park),Infrastructure,High,South Park
+Noticed this morning: Broken handrail on pedestrian overpass walkway. (Zone: North Heights),Infrastructure,Medium,North Heights
+Noticed this morning: Open manhole cover missing on busy walkway. (Zone: South Park),Infrastructure,High,South Park
+Severe problem: Public park bench broken and splintered. (Zone: Downtown),Infrastructure,Low,Downtown
+Severe problem: Burst water supply pipe wasting drinking water in downtown square. (Zone: North Heights),Infrastructure,High,North Heights
+Urgent attention required: Heavy gridlock on Main St during peak morning hours. (Zone: North Heights),Traffic,High,North Heights
+Community complaint: Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: Downtown),Traffic,High,Downtown
+Illegal parking blocking bus lane near Central Station. (Zone: East Industrial),Traffic,Medium,East Industrial
+Community complaint: Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: West Suburbs),Traffic,High,West Suburbs
+Dangerous situation! Speeding vehicles near elementary school zones. (Zone: West Suburbs),Traffic,High,West Suburbs
+Reported by resident: Construction barrier left unattended on North Boulevard. (Zone: South Park),Traffic,Medium,South Park
+Noticed this morning: Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: South Park),Traffic,High,South Park
+Please fix immediately: Road shoulder collapsed near South bridge entry. (Zone: South Park),Traffic,High,South Park
+Community complaint: Heavy commercial truck parked on narrow residential lane. (Zone: West Suburbs),Traffic,Low,West Suburbs
+Noticed this morning: Missing stop sign at 4th and Elm street crossroad. (Zone: South Park),Traffic,High,South Park
+Reported by resident: Overflowing garbage bins along Commercial Road for 3 days. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Dangerous situation! Illegal dumping of household furniture and debris in public alley. (Zone: South Park),Waste Management,Medium,South Park
+Community complaint: Uncollected trash bags attracting rodents near restaurant strip. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Urgent attention required: Broken recycling bin spilling paper waste across pavement. (Zone: North Heights),Waste Management,Low,North Heights
+Dangerous situation! Severe stench from decaying organic waste near park entrance. (Zone: North Heights),Waste Management,High,North Heights
+Persistent issue: Hazardous chemical containers left dumped beside riverbank. (Zone: Downtown),Waste Management,High,Downtown
+Persistent issue: Public litter bin damaged and overturned by wind. (Zone: South Park),Waste Management,Low,South Park
+Urgent attention required: Garbage truck missed scheduled collection on Oak Street. (Zone: North Heights),Waste Management,Medium,North Heights
+Reported by resident: Plastic waste accumulation blocking rainwater drainage grate. (Zone: North Heights),Waste Management,High,North Heights
+Urgent attention required: Compactor machine malfunctioning at neighborhood recycling center. (Zone: North Heights),Waste Management,Medium,North Heights
+Severe problem: Dense black smoke emission from East Industrial factory chimney. (Zone: East Industrial),Pollution,High,East Industrial
+Community complaint: Chemical odor spreading across residential neighborhood at night. (Zone: North Heights),Pollution,High,North Heights
+Urgent attention required: Untreated industrial effluent discharging into local river stream. (Zone: South Park),Pollution,High,South Park
+Urgent attention required: Excessive noise pollution from illegal night construction site. (Zone: North Heights),Pollution,Medium,North Heights
+Reported by resident: Loud generator running continuously past midnight in quiet zone. (Zone: West Suburbs),Pollution,Medium,West Suburbs
+Severe dust pollution from unshielded building demolition site. (Zone: North Heights),Pollution,High,North Heights
+Dangerous situation! Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: West Suburbs),Pollution,High,West Suburbs
+Toxic chemical spill reported on industrial park side road. (Zone: North Heights),Pollution,High,North Heights
+Reported by resident: Strong sulfur gas smell coming from open sewer line. (Zone: East Industrial),Pollution,High,East Industrial
+Community complaint: Excessive loudspeaker noise levels near hospital zone. (Zone: West Suburbs),Pollution,Medium,West Suburbs
+Dangerous situation! Streetlights failed on 3 consecutive blocks in South Park area. (Zone: North Heights),Infrastructure,High,North Heights
+Noticed this morning: Water main pipe bursting and flooding residential street. (Zone: East Industrial),Infrastructure,High,East Industrial
+Noticed this morning: Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: West Suburbs),Infrastructure,Medium,West Suburbs
+Dangerous situation! Fallen tree branch hanging precariously over power lines. (Zone: North Heights),Infrastructure,High,North Heights
+Community complaint: Exposed electrical wiring hanging from damaged street lamp pole. (Zone: North Heights),Infrastructure,High,North Heights
+Severe problem: Deep sinkhole opening up in middle of parking lot. (Zone: East Industrial),Infrastructure,High,East Industrial
+Please fix immediately: Broken handrail on pedestrian overpass walkway. (Zone: South Park),Infrastructure,Medium,South Park
+Noticed this morning: Open manhole cover missing on busy walkway. (Zone: North Heights),Infrastructure,High,North Heights
+Urgent attention required: Public park bench broken and splintered. (Zone: South Park),Infrastructure,Low,South Park
+Reported by resident: Burst water supply pipe wasting drinking water in downtown square. (Zone: Downtown),Infrastructure,High,Downtown
+Persistent issue: Heavy gridlock on Main St during peak morning hours. (Zone: West Suburbs),Traffic,High,West Suburbs
+Please fix immediately: Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: North Heights),Traffic,High,North Heights
+Hazard alert: Illegal parking blocking bus lane near Central Station. (Zone: East Industrial),Traffic,Medium,East Industrial
+Severe problem: Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: South Park),Traffic,High,South Park
+Hazard alert: Speeding vehicles near elementary school zones. (Zone: West Suburbs),Traffic,High,West Suburbs
+Dangerous situation! Construction barrier left unattended on North Boulevard. (Zone: West Suburbs),Traffic,Medium,West Suburbs
+Please fix immediately: Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: South Park),Traffic,High,South Park
+Road shoulder collapsed near South bridge entry. (Zone: West Suburbs),Traffic,High,West Suburbs
+Severe problem: Heavy commercial truck parked on narrow residential lane. (Zone: Downtown),Traffic,Low,Downtown
+Reported by resident: Missing stop sign at 4th and Elm street crossroad. (Zone: South Park),Traffic,High,South Park
+Overflowing garbage bins along Commercial Road for 3 days. (Zone: South Park),Waste Management,High,South Park
+Urgent attention required: Illegal dumping of household furniture and debris in public alley. (Zone: South Park),Waste Management,Medium,South Park
+Uncollected trash bags attracting rodents near restaurant strip. (Zone: South Park),Waste Management,High,South Park
+Noticed this morning: Broken recycling bin spilling paper waste across pavement. (Zone: Downtown),Waste Management,Low,Downtown
+Please fix immediately: Severe stench from decaying organic waste near park entrance. (Zone: North Heights),Waste Management,High,North Heights
+Hazard alert: Hazardous chemical containers left dumped beside riverbank. (Zone: South Park),Waste Management,High,South Park
+Reported by resident: Public litter bin damaged and overturned by wind. (Zone: West Suburbs),Waste Management,Low,West Suburbs
+Persistent issue: Garbage truck missed scheduled collection on Oak Street. (Zone: West Suburbs),Waste Management,Medium,West Suburbs
+Plastic waste accumulation blocking rainwater drainage grate. (Zone: Downtown),Waste Management,High,Downtown
+Persistent issue: Compactor machine malfunctioning at neighborhood recycling center. (Zone: North Heights),Waste Management,Medium,North Heights
+Urgent attention required: Dense black smoke emission from East Industrial factory chimney. (Zone: East Industrial),Pollution,High,East Industrial
+Reported by resident: Chemical odor spreading across residential neighborhood at night. (Zone: Downtown),Pollution,High,Downtown
+Dangerous situation! Untreated industrial effluent discharging into local river stream. (Zone: East Industrial),Pollution,High,East Industrial
+Reported by resident: Excessive noise pollution from illegal night construction site. (Zone: North Heights),Pollution,Medium,North Heights
+Noticed this morning: Loud generator running continuously past midnight in quiet zone. (Zone: South Park),Pollution,Medium,South Park
+Noticed this morning: Severe dust pollution from unshielded building demolition site. (Zone: West Suburbs),Pollution,High,West Suburbs
+Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: South Park),Pollution,High,South Park
+Noticed this morning: Toxic chemical spill reported on industrial park side road. (Zone: East Industrial),Pollution,High,East Industrial
+Hazard alert: Strong sulfur gas smell coming from open sewer line. (Zone: North Heights),Pollution,High,North Heights
+Persistent issue: Excessive loudspeaker noise levels near hospital zone. (Zone: Downtown),Pollution,Medium,Downtown
+Severe problem: Streetlights failed on 3 consecutive blocks in South Park area. (Zone: North Heights),Infrastructure,High,North Heights
+Dangerous situation! Water main pipe bursting and flooding residential street. (Zone: North Heights),Infrastructure,High,North Heights
+Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: North Heights),Infrastructure,Medium,North Heights
+Reported by resident: Fallen tree branch hanging precariously over power lines. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Dangerous situation! Exposed electrical wiring hanging from damaged street lamp pole. (Zone: South Park),Infrastructure,High,South Park
+Dangerous situation! Deep sinkhole opening up in middle of parking lot. (Zone: Downtown),Infrastructure,High,Downtown
+Hazard alert: Broken handrail on pedestrian overpass walkway. (Zone: North Heights),Infrastructure,Medium,North Heights
+Persistent issue: Open manhole cover missing on busy walkway. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Hazard alert: Public park bench broken and splintered. (Zone: West Suburbs),Infrastructure,Low,West Suburbs
+Urgent attention required: Burst water supply pipe wasting drinking water in downtown square. (Zone: East Industrial),Infrastructure,High,East Industrial
+Reported by resident: Heavy gridlock on Main St during peak morning hours. (Zone: West Suburbs),Traffic,High,West Suburbs
+Urgent attention required: Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: South Park),Traffic,High,South Park
+Community complaint: Illegal parking blocking bus lane near Central Station. (Zone: West Suburbs),Traffic,Medium,West Suburbs
+Dangerous situation! Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: West Suburbs),Traffic,High,West Suburbs
+Speeding vehicles near elementary school zones. (Zone: North Heights),Traffic,High,North Heights
+Community complaint: Construction barrier left unattended on North Boulevard. (Zone: Downtown),Traffic,Medium,Downtown
+Persistent issue: Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: Downtown),Traffic,High,Downtown
+Noticed this morning: Road shoulder collapsed near South bridge entry. (Zone: South Park),Traffic,High,South Park
+Persistent issue: Heavy commercial truck parked on narrow residential lane. (Zone: South Park),Traffic,Low,South Park
+Reported by resident: Missing stop sign at 4th and Elm street crossroad. (Zone: Downtown),Traffic,High,Downtown
+Dangerous situation! Overflowing garbage bins along Commercial Road for 3 days. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Please fix immediately: Illegal dumping of household furniture and debris in public alley. (Zone: East Industrial),Waste Management,Medium,East Industrial
+Please fix immediately: Uncollected trash bags attracting rodents near restaurant strip. (Zone: East Industrial),Waste Management,High,East Industrial
+Persistent issue: Broken recycling bin spilling paper waste across pavement. (Zone: North Heights),Waste Management,Low,North Heights
+Dangerous situation! Severe stench from decaying organic waste near park entrance. (Zone: North Heights),Waste Management,High,North Heights
+Hazard alert: Hazardous chemical containers left dumped beside riverbank. (Zone: East Industrial),Waste Management,High,East Industrial
+Please fix immediately: Public litter bin damaged and overturned by wind. (Zone: East Industrial),Waste Management,Low,East Industrial
+Severe problem: Garbage truck missed scheduled collection on Oak Street. (Zone: Downtown),Waste Management,Medium,Downtown
+Hazard alert: Plastic waste accumulation blocking rainwater drainage grate. (Zone: Downtown),Waste Management,High,Downtown
+Hazard alert: Compactor machine malfunctioning at neighborhood recycling center. (Zone: West Suburbs),Waste Management,Medium,West Suburbs
+Severe problem: Dense black smoke emission from East Industrial factory chimney. (Zone: South Park),Pollution,High,South Park
+Urgent attention required: Chemical odor spreading across residential neighborhood at night. (Zone: Downtown),Pollution,High,Downtown
+Please fix immediately: Untreated industrial effluent discharging into local river stream. (Zone: West Suburbs),Pollution,High,West Suburbs
+Hazard alert: Excessive noise pollution from illegal night construction site. (Zone: South Park),Pollution,Medium,South Park
+Dangerous situation! Loud generator running continuously past midnight in quiet zone. (Zone: West Suburbs),Pollution,Medium,West Suburbs
+Reported by resident: Severe dust pollution from unshielded building demolition site. (Zone: South Park),Pollution,High,South Park
+Urgent attention required: Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: East Industrial),Pollution,High,East Industrial
+Community complaint: Toxic chemical spill reported on industrial park side road. (Zone: East Industrial),Pollution,High,East Industrial
+Please fix immediately: Strong sulfur gas smell coming from open sewer line. (Zone: East Industrial),Pollution,High,East Industrial
+Hazard alert: Excessive loudspeaker noise levels near hospital zone. (Zone: North Heights),Pollution,Medium,North Heights
+Reported by resident: Streetlights failed on 3 consecutive blocks in South Park area. (Zone: East Industrial),Infrastructure,High,East Industrial
+Urgent attention required: Water main pipe bursting and flooding residential street. (Zone: South Park),Infrastructure,High,South Park
+Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: South Park),Infrastructure,Medium,South Park
+Reported by resident: Fallen tree branch hanging precariously over power lines. (Zone: South Park),Infrastructure,High,South Park
+Severe problem: Exposed electrical wiring hanging from damaged street lamp pole. (Zone: Downtown),Infrastructure,High,Downtown
+Persistent issue: Deep sinkhole opening up in middle of parking lot. (Zone: South Park),Infrastructure,High,South Park
+Broken handrail on pedestrian overpass walkway. (Zone: Downtown),Infrastructure,Medium,Downtown
+Please fix immediately: Open manhole cover missing on busy walkway. (Zone: North Heights),Infrastructure,High,North Heights
+Public park bench broken and splintered. (Zone: West Suburbs),Infrastructure,Low,West Suburbs
+Noticed this morning: Burst water supply pipe wasting drinking water in downtown square. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Urgent attention required: Heavy gridlock on Main St during peak morning hours. (Zone: Downtown),Traffic,High,Downtown
+Urgent attention required: Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: Downtown),Traffic,High,Downtown
+Hazard alert: Illegal parking blocking bus lane near Central Station. (Zone: West Suburbs),Traffic,Medium,West Suburbs
+Dangerous situation! Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: West Suburbs),Traffic,High,West Suburbs
+Please fix immediately: Speeding vehicles near elementary school zones. (Zone: North Heights),Traffic,High,North Heights
+Community complaint: Construction barrier left unattended on North Boulevard. (Zone: North Heights),Traffic,Medium,North Heights
+Dangerous situation! Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: North Heights),Traffic,High,North Heights
+Dangerous situation! Road shoulder collapsed near South bridge entry. (Zone: East Industrial),Traffic,High,East Industrial
+Dangerous situation! Heavy commercial truck parked on narrow residential lane. (Zone: East Industrial),Traffic,Low,East Industrial
+Reported by resident: Missing stop sign at 4th and Elm street crossroad. (Zone: West Suburbs),Traffic,High,West Suburbs
+Noticed this morning: Overflowing garbage bins along Commercial Road for 3 days. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Illegal dumping of household furniture and debris in public alley. (Zone: East Industrial),Waste Management,Medium,East Industrial
+Severe problem: Uncollected trash bags attracting rodents near restaurant strip. (Zone: Downtown),Waste Management,High,Downtown
+Dangerous situation! Broken recycling bin spilling paper waste across pavement. (Zone: South Park),Waste Management,Low,South Park
+Urgent attention required: Severe stench from decaying organic waste near park entrance. (Zone: Downtown),Waste Management,High,Downtown
+Dangerous situation! Hazardous chemical containers left dumped beside riverbank. (Zone: Downtown),Waste Management,High,Downtown
+Noticed this morning: Public litter bin damaged and overturned by wind. (Zone: West Suburbs),Waste Management,Low,West Suburbs
+Reported by resident: Garbage truck missed scheduled collection on Oak Street. (Zone: West Suburbs),Waste Management,Medium,West Suburbs
+Severe problem: Plastic waste accumulation blocking rainwater drainage grate. (Zone: Downtown),Waste Management,High,Downtown
+Dangerous situation! Compactor machine malfunctioning at neighborhood recycling center. (Zone: West Suburbs),Waste Management,Medium,West Suburbs
+Hazard alert: Dense black smoke emission from East Industrial factory chimney. (Zone: West Suburbs),Pollution,High,West Suburbs
+Persistent issue: Chemical odor spreading across residential neighborhood at night. (Zone: South Park),Pollution,High,South Park
+Urgent attention required: Untreated industrial effluent discharging into local river stream. (Zone: North Heights),Pollution,High,North Heights
+Please fix immediately: Excessive noise pollution from illegal night construction site. (Zone: East Industrial),Pollution,Medium,East Industrial
+Community complaint: Loud generator running continuously past midnight in quiet zone. (Zone: South Park),Pollution,Medium,South Park
+Reported by resident: Severe dust pollution from unshielded building demolition site. (Zone: West Suburbs),Pollution,High,West Suburbs
+Dangerous situation! Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: West Suburbs),Pollution,High,West Suburbs
+Dangerous situation! Toxic chemical spill reported on industrial park side road. (Zone: Downtown),Pollution,High,Downtown
+Strong sulfur gas smell coming from open sewer line. (Zone: East Industrial),Pollution,High,East Industrial
+Community complaint: Excessive loudspeaker noise levels near hospital zone. (Zone: South Park),Pollution,Medium,South Park
+Severe problem: Streetlights failed on 3 consecutive blocks in South Park area. (Zone: Downtown),Infrastructure,High,Downtown
+Water main pipe bursting and flooding residential street. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: East Industrial),Infrastructure,Medium,East Industrial
+Reported by resident: Fallen tree branch hanging precariously over power lines. (Zone: South Park),Infrastructure,High,South Park
+Urgent attention required: Exposed electrical wiring hanging from damaged street lamp pole. (Zone: North Heights),Infrastructure,High,North Heights
+Community complaint: Deep sinkhole opening up in middle of parking lot. (Zone: Downtown),Infrastructure,High,Downtown
+Broken handrail on pedestrian overpass walkway. (Zone: Downtown),Infrastructure,Medium,Downtown
+Hazard alert: Open manhole cover missing on busy walkway. (Zone: South Park),Infrastructure,High,South Park
+Urgent attention required: Public park bench broken and splintered. (Zone: Downtown),Infrastructure,Low,Downtown
+Reported by resident: Burst water supply pipe wasting drinking water in downtown square. (Zone: Downtown),Infrastructure,High,Downtown
+Dangerous situation! Heavy gridlock on Main St during peak morning hours. (Zone: North Heights),Traffic,High,North Heights
+Dangerous situation! Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: South Park),Traffic,High,South Park
+Illegal parking blocking bus lane near Central Station. (Zone: Downtown),Traffic,Medium,Downtown
+Noticed this morning: Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: East Industrial),Traffic,High,East Industrial
+Severe problem: Speeding vehicles near elementary school zones. (Zone: South Park),Traffic,High,South Park
+Urgent attention required: Construction barrier left unattended on North Boulevard. (Zone: East Industrial),Traffic,Medium,East Industrial
+Severe problem: Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: North Heights),Traffic,High,North Heights
+Urgent attention required: Road shoulder collapsed near South bridge entry. (Zone: North Heights),Traffic,High,North Heights
+Heavy commercial truck parked on narrow residential lane. (Zone: West Suburbs),Traffic,Low,West Suburbs
+Reported by resident: Missing stop sign at 4th and Elm street crossroad. (Zone: South Park),Traffic,High,South Park
+Please fix immediately: Overflowing garbage bins along Commercial Road for 3 days. (Zone: East Industrial),Waste Management,High,East Industrial
+Reported by resident: Illegal dumping of household furniture and debris in public alley. (Zone: North Heights),Waste Management,Medium,North Heights
+Community complaint: Uncollected trash bags attracting rodents near restaurant strip. (Zone: South Park),Waste Management,High,South Park
+Noticed this morning: Broken recycling bin spilling paper waste across pavement. (Zone: Downtown),Waste Management,Low,Downtown
+Severe stench from decaying organic waste near park entrance. (Zone: North Heights),Waste Management,High,North Heights
+Dangerous situation! Hazardous chemical containers left dumped beside riverbank. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Reported by resident: Public litter bin damaged and overturned by wind. (Zone: Downtown),Waste Management,Low,Downtown
+Hazard alert: Garbage truck missed scheduled collection on Oak Street. (Zone: South Park),Waste Management,Medium,South Park
+Please fix immediately: Plastic waste accumulation blocking rainwater drainage grate. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Please fix immediately: Compactor machine malfunctioning at neighborhood recycling center. (Zone: Downtown),Waste Management,Medium,Downtown
+Hazard alert: Dense black smoke emission from East Industrial factory chimney. (Zone: East Industrial),Pollution,High,East Industrial
+Hazard alert: Chemical odor spreading across residential neighborhood at night. (Zone: West Suburbs),Pollution,High,West Suburbs
+Untreated industrial effluent discharging into local river stream. (Zone: East Industrial),Pollution,High,East Industrial
+Dangerous situation! Excessive noise pollution from illegal night construction site. (Zone: West Suburbs),Pollution,Medium,West Suburbs
+Reported by resident: Loud generator running continuously past midnight in quiet zone. (Zone: Downtown),Pollution,Medium,Downtown
+Persistent issue: Severe dust pollution from unshielded building demolition site. (Zone: East Industrial),Pollution,High,East Industrial
+Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: West Suburbs),Pollution,High,West Suburbs
+Community complaint: Toxic chemical spill reported on industrial park side road. (Zone: West Suburbs),Pollution,High,West Suburbs
+Persistent issue: Strong sulfur gas smell coming from open sewer line. (Zone: South Park),Pollution,High,South Park
+Noticed this morning: Excessive loudspeaker noise levels near hospital zone. (Zone: East Industrial),Pollution,Medium,East Industrial
+Reported by resident: Streetlights failed on 3 consecutive blocks in South Park area. (Zone: Downtown),Infrastructure,High,Downtown
+Reported by resident: Water main pipe bursting and flooding residential street. (Zone: East Industrial),Infrastructure,High,East Industrial
+Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: East Industrial),Infrastructure,Medium,East Industrial
+Please fix immediately: Fallen tree branch hanging precariously over power lines. (Zone: East Industrial),Infrastructure,High,East Industrial
+Persistent issue: Exposed electrical wiring hanging from damaged street lamp pole. (Zone: South Park),Infrastructure,High,South Park
+Deep sinkhole opening up in middle of parking lot. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Severe problem: Broken handrail on pedestrian overpass walkway. (Zone: Downtown),Infrastructure,Medium,Downtown
+Open manhole cover missing on busy walkway. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Dangerous situation! Public park bench broken and splintered. (Zone: West Suburbs),Infrastructure,Low,West Suburbs
+Dangerous situation! Burst water supply pipe wasting drinking water in downtown square. (Zone: East Industrial),Infrastructure,High,East Industrial
+Persistent issue: Heavy gridlock on Main St during peak morning hours. (Zone: Downtown),Traffic,High,Downtown
+Severe problem: Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: North Heights),Traffic,High,North Heights
+Dangerous situation! Illegal parking blocking bus lane near Central Station. (Zone: North Heights),Traffic,Medium,North Heights
+Community complaint: Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: Downtown),Traffic,High,Downtown
+Speeding vehicles near elementary school zones. (Zone: West Suburbs),Traffic,High,West Suburbs
+Severe problem: Construction barrier left unattended on North Boulevard. (Zone: Downtown),Traffic,Medium,Downtown
+Persistent issue: Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: East Industrial),Traffic,High,East Industrial
+Please fix immediately: Road shoulder collapsed near South bridge entry. (Zone: Downtown),Traffic,High,Downtown
+Severe problem: Heavy commercial truck parked on narrow residential lane. (Zone: East Industrial),Traffic,Low,East Industrial
+Reported by resident: Missing stop sign at 4th and Elm street crossroad. (Zone: North Heights),Traffic,High,North Heights
+Urgent attention required: Overflowing garbage bins along Commercial Road for 3 days. (Zone: North Heights),Waste Management,High,North Heights
+Persistent issue: Illegal dumping of household furniture and debris in public alley. (Zone: Downtown),Waste Management,Medium,Downtown
+Persistent issue: Uncollected trash bags attracting rodents near restaurant strip. (Zone: East Industrial),Waste Management,High,East Industrial
+Hazard alert: Broken recycling bin spilling paper waste across pavement. (Zone: South Park),Waste Management,Low,South Park
+Severe stench from decaying organic waste near park entrance. (Zone: Downtown),Waste Management,High,Downtown
+Hazardous chemical containers left dumped beside riverbank. (Zone: South Park),Waste Management,High,South Park
+Dangerous situation! Public litter bin damaged and overturned by wind. (Zone: East Industrial),Waste Management,Low,East Industrial
+Urgent attention required: Garbage truck missed scheduled collection on Oak Street. (Zone: South Park),Waste Management,Medium,South Park
+Dangerous situation! Plastic waste accumulation blocking rainwater drainage grate. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Noticed this morning: Compactor machine malfunctioning at neighborhood recycling center. (Zone: South Park),Waste Management,Medium,South Park
+Severe problem: Dense black smoke emission from East Industrial factory chimney. (Zone: Downtown),Pollution,High,Downtown
+Reported by resident: Chemical odor spreading across residential neighborhood at night. (Zone: East Industrial),Pollution,High,East Industrial
+Community complaint: Untreated industrial effluent discharging into local river stream. (Zone: West Suburbs),Pollution,High,West Suburbs
+Persistent issue: Excessive noise pollution from illegal night construction site. (Zone: West Suburbs),Pollution,Medium,West Suburbs
+Noticed this morning: Loud generator running continuously past midnight in quiet zone. (Zone: West Suburbs),Pollution,Medium,West Suburbs
+Severe problem: Severe dust pollution from unshielded building demolition site. (Zone: South Park),Pollution,High,South Park
+Dangerous situation! Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: Downtown),Pollution,High,Downtown
+Reported by resident: Toxic chemical spill reported on industrial park side road. (Zone: South Park),Pollution,High,South Park
+Strong sulfur gas smell coming from open sewer line. (Zone: Downtown),Pollution,High,Downtown
+Community complaint: Excessive loudspeaker noise levels near hospital zone. (Zone: Downtown),Pollution,Medium,Downtown
+Noticed this morning: Streetlights failed on 3 consecutive blocks in South Park area. (Zone: East Industrial),Infrastructure,High,East Industrial
+Persistent issue: Water main pipe bursting and flooding residential street. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Please fix immediately: Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: West Suburbs),Infrastructure,Medium,West Suburbs
+Severe problem: Fallen tree branch hanging precariously over power lines. (Zone: North Heights),Infrastructure,High,North Heights
+Reported by resident: Exposed electrical wiring hanging from damaged street lamp pole. (Zone: South Park),Infrastructure,High,South Park
+Deep sinkhole opening up in middle of parking lot. (Zone: North Heights),Infrastructure,High,North Heights
+Please fix immediately: Broken handrail on pedestrian overpass walkway. (Zone: North Heights),Infrastructure,Medium,North Heights
+Open manhole cover missing on busy walkway. (Zone: South Park),Infrastructure,High,South Park
+Hazard alert: Public park bench broken and splintered. (Zone: West Suburbs),Infrastructure,Low,West Suburbs
+Please fix immediately: Burst water supply pipe wasting drinking water in downtown square. (Zone: East Industrial),Infrastructure,High,East Industrial
+Heavy gridlock on Main St during peak morning hours. (Zone: Downtown),Traffic,High,Downtown
+Persistent issue: Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: North Heights),Traffic,High,North Heights
+Please fix immediately: Illegal parking blocking bus lane near Central Station. (Zone: Downtown),Traffic,Medium,Downtown
+Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: Downtown),Traffic,High,Downtown
+Reported by resident: Speeding vehicles near elementary school zones. (Zone: North Heights),Traffic,High,North Heights
+Construction barrier left unattended on North Boulevard. (Zone: Downtown),Traffic,Medium,Downtown
+Please fix immediately: Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: South Park),Traffic,High,South Park
+Noticed this morning: Road shoulder collapsed near South bridge entry. (Zone: West Suburbs),Traffic,High,West Suburbs
+Community complaint: Heavy commercial truck parked on narrow residential lane. (Zone: North Heights),Traffic,Low,North Heights
+Urgent attention required: Missing stop sign at 4th and Elm street crossroad. (Zone: West Suburbs),Traffic,High,West Suburbs
+Dangerous situation! Overflowing garbage bins along Commercial Road for 3 days. (Zone: East Industrial),Waste Management,High,East Industrial
+Community complaint: Illegal dumping of household furniture and debris in public alley. (Zone: North Heights),Waste Management,Medium,North Heights
+Uncollected trash bags attracting rodents near restaurant strip. (Zone: North Heights),Waste Management,High,North Heights
+Hazard alert: Broken recycling bin spilling paper waste across pavement. (Zone: North Heights),Waste Management,Low,North Heights
+Please fix immediately: Severe stench from decaying organic waste near park entrance. (Zone: East Industrial),Waste Management,High,East Industrial
+Please fix immediately: Hazardous chemical containers left dumped beside riverbank. (Zone: East Industrial),Waste Management,High,East Industrial
+Hazard alert: Public litter bin damaged and overturned by wind. (Zone: East Industrial),Waste Management,Low,East Industrial
+Noticed this morning: Garbage truck missed scheduled collection on Oak Street. (Zone: East Industrial),Waste Management,Medium,East Industrial
+Severe problem: Plastic waste accumulation blocking rainwater drainage grate. (Zone: Downtown),Waste Management,High,Downtown
+Persistent issue: Compactor machine malfunctioning at neighborhood recycling center. (Zone: East Industrial),Waste Management,Medium,East Industrial
+Reported by resident: Dense black smoke emission from East Industrial factory chimney. (Zone: East Industrial),Pollution,High,East Industrial
+Severe problem: Chemical odor spreading across residential neighborhood at night. (Zone: North Heights),Pollution,High,North Heights
+Urgent attention required: Untreated industrial effluent discharging into local river stream. (Zone: North Heights),Pollution,High,North Heights
+Excessive noise pollution from illegal night construction site. (Zone: Downtown),Pollution,Medium,Downtown
+Community complaint: Loud generator running continuously past midnight in quiet zone. (Zone: West Suburbs),Pollution,Medium,West Suburbs
+Severe problem: Severe dust pollution from unshielded building demolition site. (Zone: South Park),Pollution,High,South Park
+Urgent attention required: Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: Downtown),Pollution,High,Downtown
+Toxic chemical spill reported on industrial park side road. (Zone: South Park),Pollution,High,South Park
+Strong sulfur gas smell coming from open sewer line. (Zone: North Heights),Pollution,High,North Heights
+Hazard alert: Excessive loudspeaker noise levels near hospital zone. (Zone: East Industrial),Pollution,Medium,East Industrial
+Dangerous situation! Streetlights failed on 3 consecutive blocks in South Park area. (Zone: North Heights),Infrastructure,High,North Heights
+Please fix immediately: Water main pipe bursting and flooding residential street. (Zone: Downtown),Infrastructure,High,Downtown
+Urgent attention required: Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: West Suburbs),Infrastructure,Medium,West Suburbs
+Urgent attention required: Fallen tree branch hanging precariously over power lines. (Zone: Downtown),Infrastructure,High,Downtown
+Exposed electrical wiring hanging from damaged street lamp pole. (Zone: South Park),Infrastructure,High,South Park
+Deep sinkhole opening up in middle of parking lot. (Zone: Downtown),Infrastructure,High,Downtown
+Dangerous situation! Broken handrail on pedestrian overpass walkway. (Zone: West Suburbs),Infrastructure,Medium,West Suburbs
+Noticed this morning: Open manhole cover missing on busy walkway. (Zone: Downtown),Infrastructure,High,Downtown
+Public park bench broken and splintered. (Zone: West Suburbs),Infrastructure,Low,West Suburbs
+Please fix immediately: Burst water supply pipe wasting drinking water in downtown square. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Dangerous situation! Heavy gridlock on Main St during peak morning hours. (Zone: East Industrial),Traffic,High,East Industrial
+Noticed this morning: Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: West Suburbs),Traffic,High,West Suburbs
+Hazard alert: Illegal parking blocking bus lane near Central Station. (Zone: West Suburbs),Traffic,Medium,West Suburbs
+Reported by resident: Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: South Park),Traffic,High,South Park
+Severe problem: Speeding vehicles near elementary school zones. (Zone: North Heights),Traffic,High,North Heights
+Noticed this morning: Construction barrier left unattended on North Boulevard. (Zone: East Industrial),Traffic,Medium,East Industrial
+Severe problem: Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: Downtown),Traffic,High,Downtown
+Severe problem: Road shoulder collapsed near South bridge entry. (Zone: West Suburbs),Traffic,High,West Suburbs
+Please fix immediately: Heavy commercial truck parked on narrow residential lane. (Zone: Downtown),Traffic,Low,Downtown
+Severe problem: Missing stop sign at 4th and Elm street crossroad. (Zone: South Park),Traffic,High,South Park
+Noticed this morning: Overflowing garbage bins along Commercial Road for 3 days. (Zone: East Industrial),Waste Management,High,East Industrial
+Illegal dumping of household furniture and debris in public alley. (Zone: West Suburbs),Waste Management,Medium,West Suburbs
+Hazard alert: Uncollected trash bags attracting rodents near restaurant strip. (Zone: North Heights),Waste Management,High,North Heights
+Noticed this morning: Broken recycling bin spilling paper waste across pavement. (Zone: West Suburbs),Waste Management,Low,West Suburbs
+Please fix immediately: Severe stench from decaying organic waste near park entrance. (Zone: East Industrial),Waste Management,High,East Industrial
+Urgent attention required: Hazardous chemical containers left dumped beside riverbank. (Zone: Downtown),Waste Management,High,Downtown
+Please fix immediately: Public litter bin damaged and overturned by wind. (Zone: Downtown),Waste Management,Low,Downtown
+Garbage truck missed scheduled collection on Oak Street. (Zone: East Industrial),Waste Management,Medium,East Industrial
+Noticed this morning: Plastic waste accumulation blocking rainwater drainage grate. (Zone: North Heights),Waste Management,High,North Heights
+Persistent issue: Compactor machine malfunctioning at neighborhood recycling center. (Zone: North Heights),Waste Management,Medium,North Heights
+Dense black smoke emission from East Industrial factory chimney. (Zone: South Park),Pollution,High,South Park
+Noticed this morning: Chemical odor spreading across residential neighborhood at night. (Zone: East Industrial),Pollution,High,East Industrial
+Untreated industrial effluent discharging into local river stream. (Zone: North Heights),Pollution,High,North Heights
+Urgent attention required: Excessive noise pollution from illegal night construction site. (Zone: North Heights),Pollution,Medium,North Heights
+Reported by resident: Loud generator running continuously past midnight in quiet zone. (Zone: West Suburbs),Pollution,Medium,West Suburbs
+Community complaint: Severe dust pollution from unshielded building demolition site. (Zone: West Suburbs),Pollution,High,West Suburbs
+Noticed this morning: Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: South Park),Pollution,High,South Park
+Dangerous situation! Toxic chemical spill reported on industrial park side road. (Zone: West Suburbs),Pollution,High,West Suburbs
+Hazard alert: Strong sulfur gas smell coming from open sewer line. (Zone: West Suburbs),Pollution,High,West Suburbs
+Severe problem: Excessive loudspeaker noise levels near hospital zone. (Zone: East Industrial),Pollution,Medium,East Industrial
+Hazard alert: Streetlights failed on 3 consecutive blocks in South Park area. (Zone: South Park),Infrastructure,High,South Park
+Persistent issue: Water main pipe bursting and flooding residential street. (Zone: East Industrial),Infrastructure,High,East Industrial
+Reported by resident: Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: East Industrial),Infrastructure,Medium,East Industrial
+Urgent attention required: Fallen tree branch hanging precariously over power lines. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Dangerous situation! Exposed electrical wiring hanging from damaged street lamp pole. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Reported by resident: Deep sinkhole opening up in middle of parking lot. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Severe problem: Broken handrail on pedestrian overpass walkway. (Zone: Downtown),Infrastructure,Medium,Downtown
+Reported by resident: Open manhole cover missing on busy walkway. (Zone: North Heights),Infrastructure,High,North Heights
+Severe problem: Public park bench broken and splintered. (Zone: East Industrial),Infrastructure,Low,East Industrial
+Please fix immediately: Burst water supply pipe wasting drinking water in downtown square. (Zone: North Heights),Infrastructure,High,North Heights
+Urgent attention required: Heavy gridlock on Main St during peak morning hours. (Zone: North Heights),Traffic,High,North Heights
+Persistent issue: Traffic lights out of service at 5th Ave intersection causing near collisions. (Zone: North Heights),Traffic,High,North Heights
+Severe problem: Illegal parking blocking bus lane near Central Station. (Zone: Downtown),Traffic,Medium,Downtown
+Please fix immediately: Pothole on West Highway causing vehicle damage and traffic slowdown. (Zone: South Park),Traffic,High,South Park
+Community complaint: Speeding vehicles near elementary school zones. (Zone: West Suburbs),Traffic,High,West Suburbs
+Noticed this morning: Construction barrier left unattended on North Boulevard. (Zone: West Suburbs),Traffic,Medium,West Suburbs
+Traffic signals stuck on red for 20 minutes at East Avenue. (Zone: West Suburbs),Traffic,High,West Suburbs
+Please fix immediately: Road shoulder collapsed near South bridge entry. (Zone: West Suburbs),Traffic,High,West Suburbs
+Dangerous situation! Heavy commercial truck parked on narrow residential lane. (Zone: West Suburbs),Traffic,Low,West Suburbs
+Dangerous situation! Missing stop sign at 4th and Elm street crossroad. (Zone: East Industrial),Traffic,High,East Industrial
+Urgent attention required: Overflowing garbage bins along Commercial Road for 3 days. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Persistent issue: Illegal dumping of household furniture and debris in public alley. (Zone: West Suburbs),Waste Management,Medium,West Suburbs
+Reported by resident: Uncollected trash bags attracting rodents near restaurant strip. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Urgent attention required: Broken recycling bin spilling paper waste across pavement. (Zone: East Industrial),Waste Management,Low,East Industrial
+Urgent attention required: Severe stench from decaying organic waste near park entrance. (Zone: South Park),Waste Management,High,South Park
+Dangerous situation! Hazardous chemical containers left dumped beside riverbank. (Zone: Downtown),Waste Management,High,Downtown
+Persistent issue: Public litter bin damaged and overturned by wind. (Zone: North Heights),Waste Management,Low,North Heights
+Hazard alert: Garbage truck missed scheduled collection on Oak Street. (Zone: East Industrial),Waste Management,Medium,East Industrial
+Hazard alert: Plastic waste accumulation blocking rainwater drainage grate. (Zone: West Suburbs),Waste Management,High,West Suburbs
+Please fix immediately: Compactor machine malfunctioning at neighborhood recycling center. (Zone: South Park),Waste Management,Medium,South Park
+Please fix immediately: Dense black smoke emission from East Industrial factory chimney. (Zone: South Park),Pollution,High,South Park
+Noticed this morning: Chemical odor spreading across residential neighborhood at night. (Zone: East Industrial),Pollution,High,East Industrial
+Dangerous situation! Untreated industrial effluent discharging into local river stream. (Zone: North Heights),Pollution,High,North Heights
+Please fix immediately: Excessive noise pollution from illegal night construction site. (Zone: North Heights),Pollution,Medium,North Heights
+Urgent attention required: Loud generator running continuously past midnight in quiet zone. (Zone: Downtown),Pollution,Medium,Downtown
+Severe dust pollution from unshielded building demolition site. (Zone: Downtown),Pollution,High,Downtown
+Persistent issue: Vehicle exhaust fumes causing choking air quality in underground tunnel. (Zone: East Industrial),Pollution,High,East Industrial
+Community complaint: Toxic chemical spill reported on industrial park side road. (Zone: West Suburbs),Pollution,High,West Suburbs
+Persistent issue: Strong sulfur gas smell coming from open sewer line. (Zone: North Heights),Pollution,High,North Heights
+Community complaint: Excessive loudspeaker noise levels near hospital zone. (Zone: Downtown),Pollution,Medium,Downtown
+Community complaint: Streetlights failed on 3 consecutive blocks in South Park area. (Zone: South Park),Infrastructure,High,South Park
+Noticed this morning: Water main pipe bursting and flooding residential street. (Zone: Downtown),Infrastructure,High,Downtown
+Dangerous situation! Sidewalk concrete slab broken creating trip hazard for elderly. (Zone: East Industrial),Infrastructure,Medium,East Industrial
+Severe problem: Fallen tree branch hanging precariously over power lines. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Please fix immediately: Exposed electrical wiring hanging from damaged street lamp pole. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Noticed this morning: Deep sinkhole opening up in middle of parking lot. (Zone: West Suburbs),Infrastructure,High,West Suburbs
+Reported by resident: Broken handrail on pedestrian overpass walkway. (Zone: West Suburbs),Infrastructure,Medium,West Suburbs
+Open manhole cover missing on busy walkway. (Zone: North Heights),Infrastructure,High,North Heights
+Severe problem: Public park bench broken and splintered. (Zone: South Park),Infrastructure,Low,South Park
+Severe problem: Burst water supply pipe wasting drinking water in downtown square. (Zone: East Industrial),Infrastructure,High,East Industrial

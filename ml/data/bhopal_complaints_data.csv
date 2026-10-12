@@ -1,0 +1,776 @@
+description,category
+"Hazardous situation: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Shahpura, Bhopal.",Road / Pothole
+"Asphalt road surface cracked and broken with deep crater after rains. Location: TT Nagar, Bhopal.",Road / Pothole
+"Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Lalghati, Bhopal.",Road / Pothole
+"Complaint from resident: Potholes and broken bitumen tarmac on flyover entry lane. Location: Kolar Road, Bhopal.",Road / Pothole
+"Severe problem reported: Garbage bins overflowing with uncollected household waste for 3 days. Location: Lalghati, Bhopal.",Garbage / Waste
+"Complaint from resident: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Habibganj, Bhopal.",Garbage / Waste
+"Complaint from resident: Uncollected trash bags emitting terrible stench near market area. Location: Ayodhya Bypass, Bhopal.",Garbage / Waste
+"Please inspect: Commercial waste compactor broken spilling garbage onto footpath. Location: Shahpura, Bhopal.",Garbage / Waste
+"Complaint from resident: Drinking water pipeline leak spilling clean water rapidly across road. Location: Bairagarh, Bhopal.",Water Supply
+"Complaint from resident: No municipal water supply for last 48 hours in residential block. Location: MP Nagar, Bhopal.",Water Supply
+"Complaint from resident: Contaminated muddy tap water supplying low pressure to houses. Location: Ayodhya Bypass, Bhopal.",Water Supply
+"Please inspect: Water supply main valve bursting near residential gate. Location: Habibganj, Bhopal.",Water Supply
+"Streetlights failed on 4 consecutive poles making road completely dark. Location: Lalghati, Bhopal.",Streetlight / Electricity
+"Urgent issue: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Lalghati, Bhopal.",Streetlight / Electricity
+"Please inspect: Street light short circuit flickering continuously at night. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Power transformer spark and street light outage on main avenue. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Please inspect: Open sewer line overflowing foul black water onto public street. Location: Kolar Road, Bhopal.",Drainage
+"Complaint from resident: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Bairagarh, Bhopal.",Drainage
+"Missing manhole cover on busy pedestrian footpath. Location: Habibganj, Bhopal.",Drainage
+"Hazardous situation: Clogged underground drainage pipe backing up into residential lane. Location: Bairagarh, Bhopal.",Drainage
+"Complaint from resident: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Arera Colony, Bhopal.",Traffic Signal
+"Pedestrian crossing light out of order near school zone. Location: MP Nagar, Bhopal.",Traffic Signal
+"Traffic signal pole bent and light malfunctioning after storm. Location: MP Nagar, Bhopal.",Traffic Signal
+"Please inspect: Unregulated intersection traffic lights dark and failing. Location: Ayodhya Bypass, Bhopal.",Traffic Signal
+"Please inspect: Public park boundary wall collapsed creating safety hazard. Location: Habibganj, Bhopal.",Public Infrastructure
+"Hazardous situation: Pedestrian overpass walkway railing broken and loose. Location: Arera Colony, Bhopal.",Public Infrastructure
+"Severe problem reported: Bus shelter roof damaged and bench broken. Location: Lalghati, Bhopal.",Public Infrastructure
+"Severe problem reported: Public toilet facility door damaged and tap broken. Location: Lalghati, Bhopal.",Public Infrastructure
+"Urgent issue: Loud noise pollution from illegal night loudspeaker past midnight. Location: Ayodhya Bypass, Bhopal.",Other
+"Please inspect: Unused stray cattle roaming busy market street. Location: Shahpura, Bhopal.",Other
+"Hazardous situation: Unauthorized hoardings blocking signboards near square. Location: Habibganj, Bhopal.",Other
+"Hazardous situation: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Shahpura, Bhopal.",Road / Pothole
+"Please inspect: Asphalt road surface cracked and broken with deep crater after rains. Location: Ayodhya Bypass, Bhopal.",Road / Pothole
+"Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Shahpura, Bhopal.",Road / Pothole
+"Urgent issue: Potholes and broken bitumen tarmac on flyover entry lane. Location: Ayodhya Bypass, Bhopal.",Road / Pothole
+"Please inspect: Garbage bins overflowing with uncollected household waste for 3 days. Location: Ayodhya Bypass, Bhopal.",Garbage / Waste
+"Severe problem reported: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Severe problem reported: Uncollected trash bags emitting terrible stench near market area. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Urgent issue: Commercial waste compactor broken spilling garbage onto footpath. Location: Lalghati, Bhopal.",Garbage / Waste
+"Severe problem reported: Drinking water pipeline leak spilling clean water rapidly across road. Location: MP Nagar, Bhopal.",Water Supply
+"Complaint from resident: No municipal water supply for last 48 hours in residential block. Location: Bairagarh, Bhopal.",Water Supply
+"Severe problem reported: Contaminated muddy tap water supplying low pressure to houses. Location: Kolar Road, Bhopal.",Water Supply
+"Hazardous situation: Water supply main valve bursting near residential gate. Location: Lalghati, Bhopal.",Water Supply
+"Streetlights failed on 4 consecutive poles making road completely dark. Location: Shahpura, Bhopal.",Streetlight / Electricity
+"Please inspect: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Street light short circuit flickering continuously at night. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Power transformer spark and street light outage on main avenue. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Urgent issue: Open sewer line overflowing foul black water onto public street. Location: Shahpura, Bhopal.",Drainage
+"Stormwater drain grate blocked with plastic debris causing street flooding. Location: MP Nagar, Bhopal.",Drainage
+"Hazardous situation: Missing manhole cover on busy pedestrian footpath. Location: New Market, Bhopal.",Drainage
+"Urgent issue: Clogged underground drainage pipe backing up into residential lane. Location: Bairagarh, Bhopal.",Drainage
+"Complaint from resident: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: TT Nagar, Bhopal.",Traffic Signal
+"Hazardous situation: Pedestrian crossing light out of order near school zone. Location: New Market, Bhopal.",Traffic Signal
+"Severe problem reported: Traffic signal pole bent and light malfunctioning after storm. Location: Bairagarh, Bhopal.",Traffic Signal
+"Please inspect: Unregulated intersection traffic lights dark and failing. Location: Kolar Road, Bhopal.",Traffic Signal
+"Public park boundary wall collapsed creating safety hazard. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Urgent issue: Pedestrian overpass walkway railing broken and loose. Location: Habibganj, Bhopal.",Public Infrastructure
+"Severe problem reported: Bus shelter roof damaged and bench broken. Location: New Market, Bhopal.",Public Infrastructure
+"Urgent issue: Public toilet facility door damaged and tap broken. Location: Bairagarh, Bhopal.",Public Infrastructure
+"Loud noise pollution from illegal night loudspeaker past midnight. Location: MP Nagar, Bhopal.",Other
+"Please inspect: Unused stray cattle roaming busy market street. Location: Ayodhya Bypass, Bhopal.",Other
+"Hazardous situation: Unauthorized hoardings blocking signboards near square. Location: Bairagarh, Bhopal.",Other
+"Complaint from resident: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Arera Colony, Bhopal.",Road / Pothole
+"Please inspect: Asphalt road surface cracked and broken with deep crater after rains. Location: Ayodhya Bypass, Bhopal.",Road / Pothole
+"Complaint from resident: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Kolar Road, Bhopal.",Road / Pothole
+"Severe problem reported: Potholes and broken bitumen tarmac on flyover entry lane. Location: MP Nagar, Bhopal.",Road / Pothole
+"Severe problem reported: Garbage bins overflowing with uncollected household waste for 3 days. Location: Bairagarh, Bhopal.",Garbage / Waste
+"Severe problem reported: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: New Market, Bhopal.",Garbage / Waste
+"Complaint from resident: Uncollected trash bags emitting terrible stench near market area. Location: Bairagarh, Bhopal.",Garbage / Waste
+"Please inspect: Commercial waste compactor broken spilling garbage onto footpath. Location: Ayodhya Bypass, Bhopal.",Garbage / Waste
+"Severe problem reported: Drinking water pipeline leak spilling clean water rapidly across road. Location: Shahpura, Bhopal.",Water Supply
+"Complaint from resident: No municipal water supply for last 48 hours in residential block. Location: Ayodhya Bypass, Bhopal.",Water Supply
+"Complaint from resident: Contaminated muddy tap water supplying low pressure to houses. Location: Bairagarh, Bhopal.",Water Supply
+"Severe problem reported: Water supply main valve bursting near residential gate. Location: Kolar Road, Bhopal.",Water Supply
+"Urgent issue: Streetlights failed on 4 consecutive poles making road completely dark. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Please inspect: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Urgent issue: Street light short circuit flickering continuously at night. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Urgent issue: Power transformer spark and street light outage on main avenue. Location: Arera Colony, Bhopal.",Streetlight / Electricity
+"Open sewer line overflowing foul black water onto public street. Location: MP Nagar, Bhopal.",Drainage
+"Complaint from resident: Stormwater drain grate blocked with plastic debris causing street flooding. Location: MP Nagar, Bhopal.",Drainage
+"Hazardous situation: Missing manhole cover on busy pedestrian footpath. Location: Lalghati, Bhopal.",Drainage
+"Please inspect: Clogged underground drainage pipe backing up into residential lane. Location: Habibganj, Bhopal.",Drainage
+"Hazardous situation: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: MP Nagar, Bhopal.",Traffic Signal
+"Complaint from resident: Pedestrian crossing light out of order near school zone. Location: TT Nagar, Bhopal.",Traffic Signal
+"Please inspect: Traffic signal pole bent and light malfunctioning after storm. Location: Bairagarh, Bhopal.",Traffic Signal
+"Hazardous situation: Unregulated intersection traffic lights dark and failing. Location: New Market, Bhopal.",Traffic Signal
+"Severe problem reported: Public park boundary wall collapsed creating safety hazard. Location: Habibganj, Bhopal.",Public Infrastructure
+"Pedestrian overpass walkway railing broken and loose. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Hazardous situation: Bus shelter roof damaged and bench broken. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Severe problem reported: Public toilet facility door damaged and tap broken. Location: Bairagarh, Bhopal.",Public Infrastructure
+"Hazardous situation: Loud noise pollution from illegal night loudspeaker past midnight. Location: Habibganj, Bhopal.",Other
+"Hazardous situation: Unused stray cattle roaming busy market street. Location: Lalghati, Bhopal.",Other
+"Severe problem reported: Unauthorized hoardings blocking signboards near square. Location: TT Nagar, Bhopal.",Other
+"Hazardous situation: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Bairagarh, Bhopal.",Road / Pothole
+"Complaint from resident: Asphalt road surface cracked and broken with deep crater after rains. Location: Shahpura, Bhopal.",Road / Pothole
+"Complaint from resident: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Shahpura, Bhopal.",Road / Pothole
+"Please inspect: Potholes and broken bitumen tarmac on flyover entry lane. Location: Bairagarh, Bhopal.",Road / Pothole
+"Complaint from resident: Garbage bins overflowing with uncollected household waste for 3 days. Location: Ayodhya Bypass, Bhopal.",Garbage / Waste
+"Severe problem reported: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Lalghati, Bhopal.",Garbage / Waste
+"Uncollected trash bags emitting terrible stench near market area. Location: Shahpura, Bhopal.",Garbage / Waste
+"Complaint from resident: Commercial waste compactor broken spilling garbage onto footpath. Location: Ayodhya Bypass, Bhopal.",Garbage / Waste
+"Please inspect: Drinking water pipeline leak spilling clean water rapidly across road. Location: Lalghati, Bhopal.",Water Supply
+"Severe problem reported: No municipal water supply for last 48 hours in residential block. Location: Arera Colony, Bhopal.",Water Supply
+"Contaminated muddy tap water supplying low pressure to houses. Location: Shahpura, Bhopal.",Water Supply
+"Water supply main valve bursting near residential gate. Location: Bairagarh, Bhopal.",Water Supply
+"Streetlights failed on 4 consecutive poles making road completely dark. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Exposed electrical wire hanging dangerously from damaged lamp post. Location: New Market, Bhopal.",Streetlight / Electricity
+"Please inspect: Street light short circuit flickering continuously at night. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Power transformer spark and street light outage on main avenue. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Open sewer line overflowing foul black water onto public street. Location: Shahpura, Bhopal.",Drainage
+"Stormwater drain grate blocked with plastic debris causing street flooding. Location: Lalghati, Bhopal.",Drainage
+"Hazardous situation: Missing manhole cover on busy pedestrian footpath. Location: Arera Colony, Bhopal.",Drainage
+"Clogged underground drainage pipe backing up into residential lane. Location: Shahpura, Bhopal.",Drainage
+"Severe problem reported: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Lalghati, Bhopal.",Traffic Signal
+"Pedestrian crossing light out of order near school zone. Location: Ayodhya Bypass, Bhopal.",Traffic Signal
+"Please inspect: Traffic signal pole bent and light malfunctioning after storm. Location: TT Nagar, Bhopal.",Traffic Signal
+"Severe problem reported: Unregulated intersection traffic lights dark and failing. Location: New Market, Bhopal.",Traffic Signal
+"Urgent issue: Public park boundary wall collapsed creating safety hazard. Location: Habibganj, Bhopal.",Public Infrastructure
+"Hazardous situation: Pedestrian overpass walkway railing broken and loose. Location: Lalghati, Bhopal.",Public Infrastructure
+"Complaint from resident: Bus shelter roof damaged and bench broken. Location: Lalghati, Bhopal.",Public Infrastructure
+"Urgent issue: Public toilet facility door damaged and tap broken. Location: New Market, Bhopal.",Public Infrastructure
+"Urgent issue: Loud noise pollution from illegal night loudspeaker past midnight. Location: Shahpura, Bhopal.",Other
+"Urgent issue: Unused stray cattle roaming busy market street. Location: Habibganj, Bhopal.",Other
+"Hazardous situation: Unauthorized hoardings blocking signboards near square. Location: Kolar Road, Bhopal.",Other
+"Hazardous situation: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Lalghati, Bhopal.",Road / Pothole
+"Complaint from resident: Asphalt road surface cracked and broken with deep crater after rains. Location: New Market, Bhopal.",Road / Pothole
+"Hazardous situation: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Arera Colony, Bhopal.",Road / Pothole
+"Potholes and broken bitumen tarmac on flyover entry lane. Location: Bairagarh, Bhopal.",Road / Pothole
+"Hazardous situation: Garbage bins overflowing with uncollected household waste for 3 days. Location: MP Nagar, Bhopal.",Garbage / Waste
+"Hazardous situation: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Kolar Road, Bhopal.",Garbage / Waste
+"Uncollected trash bags emitting terrible stench near market area. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Severe problem reported: Commercial waste compactor broken spilling garbage onto footpath. Location: Lalghati, Bhopal.",Garbage / Waste
+"Complaint from resident: Drinking water pipeline leak spilling clean water rapidly across road. Location: Shahpura, Bhopal.",Water Supply
+"No municipal water supply for last 48 hours in residential block. Location: Bairagarh, Bhopal.",Water Supply
+"Contaminated muddy tap water supplying low pressure to houses. Location: MP Nagar, Bhopal.",Water Supply
+"Water supply main valve bursting near residential gate. Location: Shahpura, Bhopal.",Water Supply
+"Hazardous situation: Streetlights failed on 4 consecutive poles making road completely dark. Location: Kolar Road, Bhopal.",Streetlight / Electricity
+"Exposed electrical wire hanging dangerously from damaged lamp post. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Street light short circuit flickering continuously at night. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Power transformer spark and street light outage on main avenue. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Open sewer line overflowing foul black water onto public street. Location: Kolar Road, Bhopal.",Drainage
+"Severe problem reported: Stormwater drain grate blocked with plastic debris causing street flooding. Location: New Market, Bhopal.",Drainage
+"Hazardous situation: Missing manhole cover on busy pedestrian footpath. Location: Shahpura, Bhopal.",Drainage
+"Complaint from resident: Clogged underground drainage pipe backing up into residential lane. Location: Kolar Road, Bhopal.",Drainage
+"Complaint from resident: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Habibganj, Bhopal.",Traffic Signal
+"Pedestrian crossing light out of order near school zone. Location: Habibganj, Bhopal.",Traffic Signal
+"Traffic signal pole bent and light malfunctioning after storm. Location: TT Nagar, Bhopal.",Traffic Signal
+"Severe problem reported: Unregulated intersection traffic lights dark and failing. Location: Kolar Road, Bhopal.",Traffic Signal
+"Severe problem reported: Public park boundary wall collapsed creating safety hazard. Location: Arera Colony, Bhopal.",Public Infrastructure
+"Severe problem reported: Pedestrian overpass walkway railing broken and loose. Location: TT Nagar, Bhopal.",Public Infrastructure
+"Severe problem reported: Bus shelter roof damaged and bench broken. Location: Shahpura, Bhopal.",Public Infrastructure
+"Public toilet facility door damaged and tap broken. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Please inspect: Loud noise pollution from illegal night loudspeaker past midnight. Location: New Market, Bhopal.",Other
+"Severe problem reported: Unused stray cattle roaming busy market street. Location: Kolar Road, Bhopal.",Other
+"Please inspect: Unauthorized hoardings blocking signboards near square. Location: Kolar Road, Bhopal.",Other
+"Please inspect: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Habibganj, Bhopal.",Road / Pothole
+"Urgent issue: Asphalt road surface cracked and broken with deep crater after rains. Location: Arera Colony, Bhopal.",Road / Pothole
+"Severe problem reported: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Bairagarh, Bhopal.",Road / Pothole
+"Complaint from resident: Potholes and broken bitumen tarmac on flyover entry lane. Location: MP Nagar, Bhopal.",Road / Pothole
+"Complaint from resident: Garbage bins overflowing with uncollected household waste for 3 days. Location: Habibganj, Bhopal.",Garbage / Waste
+"Urgent issue: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Uncollected trash bags emitting terrible stench near market area. Location: MP Nagar, Bhopal.",Garbage / Waste
+"Hazardous situation: Commercial waste compactor broken spilling garbage onto footpath. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Complaint from resident: Drinking water pipeline leak spilling clean water rapidly across road. Location: Lalghati, Bhopal.",Water Supply
+"Complaint from resident: No municipal water supply for last 48 hours in residential block. Location: MP Nagar, Bhopal.",Water Supply
+"Urgent issue: Contaminated muddy tap water supplying low pressure to houses. Location: Arera Colony, Bhopal.",Water Supply
+"Urgent issue: Water supply main valve bursting near residential gate. Location: Ayodhya Bypass, Bhopal.",Water Supply
+"Streetlights failed on 4 consecutive poles making road completely dark. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Urgent issue: Exposed electrical wire hanging dangerously from damaged lamp post. Location: New Market, Bhopal.",Streetlight / Electricity
+"Street light short circuit flickering continuously at night. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Power transformer spark and street light outage on main avenue. Location: Shahpura, Bhopal.",Streetlight / Electricity
+"Please inspect: Open sewer line overflowing foul black water onto public street. Location: Shahpura, Bhopal.",Drainage
+"Hazardous situation: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Shahpura, Bhopal.",Drainage
+"Missing manhole cover on busy pedestrian footpath. Location: MP Nagar, Bhopal.",Drainage
+"Complaint from resident: Clogged underground drainage pipe backing up into residential lane. Location: Lalghati, Bhopal.",Drainage
+"Please inspect: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Kolar Road, Bhopal.",Traffic Signal
+"Hazardous situation: Pedestrian crossing light out of order near school zone. Location: Bairagarh, Bhopal.",Traffic Signal
+"Complaint from resident: Traffic signal pole bent and light malfunctioning after storm. Location: Ayodhya Bypass, Bhopal.",Traffic Signal
+"Urgent issue: Unregulated intersection traffic lights dark and failing. Location: Arera Colony, Bhopal.",Traffic Signal
+"Public park boundary wall collapsed creating safety hazard. Location: Bairagarh, Bhopal.",Public Infrastructure
+"Pedestrian overpass walkway railing broken and loose. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Severe problem reported: Bus shelter roof damaged and bench broken. Location: MP Nagar, Bhopal.",Public Infrastructure
+"Public toilet facility door damaged and tap broken. Location: Bairagarh, Bhopal.",Public Infrastructure
+"Complaint from resident: Loud noise pollution from illegal night loudspeaker past midnight. Location: New Market, Bhopal.",Other
+"Hazardous situation: Unused stray cattle roaming busy market street. Location: Shahpura, Bhopal.",Other
+"Unauthorized hoardings blocking signboards near square. Location: Arera Colony, Bhopal.",Other
+"Please inspect: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: New Market, Bhopal.",Road / Pothole
+"Complaint from resident: Asphalt road surface cracked and broken with deep crater after rains. Location: Kolar Road, Bhopal.",Road / Pothole
+"Complaint from resident: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Lalghati, Bhopal.",Road / Pothole
+"Urgent issue: Potholes and broken bitumen tarmac on flyover entry lane. Location: New Market, Bhopal.",Road / Pothole
+"Severe problem reported: Garbage bins overflowing with uncollected household waste for 3 days. Location: Lalghati, Bhopal.",Garbage / Waste
+"Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Lalghati, Bhopal.",Garbage / Waste
+"Urgent issue: Uncollected trash bags emitting terrible stench near market area. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Severe problem reported: Commercial waste compactor broken spilling garbage onto footpath. Location: Bairagarh, Bhopal.",Garbage / Waste
+"Drinking water pipeline leak spilling clean water rapidly across road. Location: Habibganj, Bhopal.",Water Supply
+"Hazardous situation: No municipal water supply for last 48 hours in residential block. Location: Lalghati, Bhopal.",Water Supply
+"Contaminated muddy tap water supplying low pressure to houses. Location: Kolar Road, Bhopal.",Water Supply
+"Complaint from resident: Water supply main valve bursting near residential gate. Location: MP Nagar, Bhopal.",Water Supply
+"Streetlights failed on 4 consecutive poles making road completely dark. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Kolar Road, Bhopal.",Streetlight / Electricity
+"Urgent issue: Street light short circuit flickering continuously at night. Location: Arera Colony, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Power transformer spark and street light outage on main avenue. Location: Lalghati, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Open sewer line overflowing foul black water onto public street. Location: Bairagarh, Bhopal.",Drainage
+"Please inspect: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Ayodhya Bypass, Bhopal.",Drainage
+"Urgent issue: Missing manhole cover on busy pedestrian footpath. Location: Lalghati, Bhopal.",Drainage
+"Complaint from resident: Clogged underground drainage pipe backing up into residential lane. Location: Habibganj, Bhopal.",Drainage
+"Hazardous situation: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Lalghati, Bhopal.",Traffic Signal
+"Complaint from resident: Pedestrian crossing light out of order near school zone. Location: Shahpura, Bhopal.",Traffic Signal
+"Severe problem reported: Traffic signal pole bent and light malfunctioning after storm. Location: Shahpura, Bhopal.",Traffic Signal
+"Urgent issue: Unregulated intersection traffic lights dark and failing. Location: Habibganj, Bhopal.",Traffic Signal
+"Severe problem reported: Public park boundary wall collapsed creating safety hazard. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Pedestrian overpass walkway railing broken and loose. Location: Lalghati, Bhopal.",Public Infrastructure
+"Urgent issue: Bus shelter roof damaged and bench broken. Location: Lalghati, Bhopal.",Public Infrastructure
+"Complaint from resident: Public toilet facility door damaged and tap broken. Location: Habibganj, Bhopal.",Public Infrastructure
+"Hazardous situation: Loud noise pollution from illegal night loudspeaker past midnight. Location: Ayodhya Bypass, Bhopal.",Other
+"Complaint from resident: Unused stray cattle roaming busy market street. Location: Lalghati, Bhopal.",Other
+"Severe problem reported: Unauthorized hoardings blocking signboards near square. Location: Ayodhya Bypass, Bhopal.",Other
+"Severe problem reported: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: MP Nagar, Bhopal.",Road / Pothole
+"Hazardous situation: Asphalt road surface cracked and broken with deep crater after rains. Location: New Market, Bhopal.",Road / Pothole
+"Severe problem reported: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Arera Colony, Bhopal.",Road / Pothole
+"Complaint from resident: Potholes and broken bitumen tarmac on flyover entry lane. Location: Kolar Road, Bhopal.",Road / Pothole
+"Severe problem reported: Garbage bins overflowing with uncollected household waste for 3 days. Location: Habibganj, Bhopal.",Garbage / Waste
+"Urgent issue: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Please inspect: Uncollected trash bags emitting terrible stench near market area. Location: Habibganj, Bhopal.",Garbage / Waste
+"Please inspect: Commercial waste compactor broken spilling garbage onto footpath. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Hazardous situation: Drinking water pipeline leak spilling clean water rapidly across road. Location: TT Nagar, Bhopal.",Water Supply
+"No municipal water supply for last 48 hours in residential block. Location: Habibganj, Bhopal.",Water Supply
+"Urgent issue: Contaminated muddy tap water supplying low pressure to houses. Location: TT Nagar, Bhopal.",Water Supply
+"Hazardous situation: Water supply main valve bursting near residential gate. Location: TT Nagar, Bhopal.",Water Supply
+"Hazardous situation: Streetlights failed on 4 consecutive poles making road completely dark. Location: Kolar Road, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Please inspect: Street light short circuit flickering continuously at night. Location: Kolar Road, Bhopal.",Streetlight / Electricity
+"Power transformer spark and street light outage on main avenue. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Please inspect: Open sewer line overflowing foul black water onto public street. Location: Kolar Road, Bhopal.",Drainage
+"Please inspect: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Lalghati, Bhopal.",Drainage
+"Please inspect: Missing manhole cover on busy pedestrian footpath. Location: Lalghati, Bhopal.",Drainage
+"Please inspect: Clogged underground drainage pipe backing up into residential lane. Location: Habibganj, Bhopal.",Drainage
+"Urgent issue: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Shahpura, Bhopal.",Traffic Signal
+"Severe problem reported: Pedestrian crossing light out of order near school zone. Location: Bairagarh, Bhopal.",Traffic Signal
+"Complaint from resident: Traffic signal pole bent and light malfunctioning after storm. Location: Kolar Road, Bhopal.",Traffic Signal
+"Complaint from resident: Unregulated intersection traffic lights dark and failing. Location: Habibganj, Bhopal.",Traffic Signal
+"Urgent issue: Public park boundary wall collapsed creating safety hazard. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Severe problem reported: Pedestrian overpass walkway railing broken and loose. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Hazardous situation: Bus shelter roof damaged and bench broken. Location: Arera Colony, Bhopal.",Public Infrastructure
+"Please inspect: Public toilet facility door damaged and tap broken. Location: MP Nagar, Bhopal.",Public Infrastructure
+"Hazardous situation: Loud noise pollution from illegal night loudspeaker past midnight. Location: Habibganj, Bhopal.",Other
+"Urgent issue: Unused stray cattle roaming busy market street. Location: Lalghati, Bhopal.",Other
+"Urgent issue: Unauthorized hoardings blocking signboards near square. Location: Arera Colony, Bhopal.",Other
+"Hazardous situation: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Shahpura, Bhopal.",Road / Pothole
+"Hazardous situation: Asphalt road surface cracked and broken with deep crater after rains. Location: Shahpura, Bhopal.",Road / Pothole
+"Severe problem reported: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Ayodhya Bypass, Bhopal.",Road / Pothole
+"Complaint from resident: Potholes and broken bitumen tarmac on flyover entry lane. Location: TT Nagar, Bhopal.",Road / Pothole
+"Please inspect: Garbage bins overflowing with uncollected household waste for 3 days. Location: Shahpura, Bhopal.",Garbage / Waste
+"Please inspect: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: New Market, Bhopal.",Garbage / Waste
+"Complaint from resident: Uncollected trash bags emitting terrible stench near market area. Location: New Market, Bhopal.",Garbage / Waste
+"Urgent issue: Commercial waste compactor broken spilling garbage onto footpath. Location: Lalghati, Bhopal.",Garbage / Waste
+"Urgent issue: Drinking water pipeline leak spilling clean water rapidly across road. Location: Shahpura, Bhopal.",Water Supply
+"Severe problem reported: No municipal water supply for last 48 hours in residential block. Location: Habibganj, Bhopal.",Water Supply
+"Urgent issue: Contaminated muddy tap water supplying low pressure to houses. Location: TT Nagar, Bhopal.",Water Supply
+"Severe problem reported: Water supply main valve bursting near residential gate. Location: Bairagarh, Bhopal.",Water Supply
+"Please inspect: Streetlights failed on 4 consecutive poles making road completely dark. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Shahpura, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Street light short circuit flickering continuously at night. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Power transformer spark and street light outage on main avenue. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Urgent issue: Open sewer line overflowing foul black water onto public street. Location: Shahpura, Bhopal.",Drainage
+"Hazardous situation: Stormwater drain grate blocked with plastic debris causing street flooding. Location: New Market, Bhopal.",Drainage
+"Severe problem reported: Missing manhole cover on busy pedestrian footpath. Location: New Market, Bhopal.",Drainage
+"Complaint from resident: Clogged underground drainage pipe backing up into residential lane. Location: Arera Colony, Bhopal.",Drainage
+"Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Shahpura, Bhopal.",Traffic Signal
+"Pedestrian crossing light out of order near school zone. Location: MP Nagar, Bhopal.",Traffic Signal
+"Please inspect: Traffic signal pole bent and light malfunctioning after storm. Location: New Market, Bhopal.",Traffic Signal
+"Please inspect: Unregulated intersection traffic lights dark and failing. Location: Ayodhya Bypass, Bhopal.",Traffic Signal
+"Hazardous situation: Public park boundary wall collapsed creating safety hazard. Location: Habibganj, Bhopal.",Public Infrastructure
+"Please inspect: Pedestrian overpass walkway railing broken and loose. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Bus shelter roof damaged and bench broken. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Severe problem reported: Public toilet facility door damaged and tap broken. Location: Arera Colony, Bhopal.",Public Infrastructure
+"Complaint from resident: Loud noise pollution from illegal night loudspeaker past midnight. Location: Habibganj, Bhopal.",Other
+"Complaint from resident: Unused stray cattle roaming busy market street. Location: Arera Colony, Bhopal.",Other
+"Unauthorized hoardings blocking signboards near square. Location: Kolar Road, Bhopal.",Other
+"Complaint from resident: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Kolar Road, Bhopal.",Road / Pothole
+"Severe problem reported: Asphalt road surface cracked and broken with deep crater after rains. Location: Arera Colony, Bhopal.",Road / Pothole
+"Hazardous situation: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: MP Nagar, Bhopal.",Road / Pothole
+"Urgent issue: Potholes and broken bitumen tarmac on flyover entry lane. Location: TT Nagar, Bhopal.",Road / Pothole
+"Urgent issue: Garbage bins overflowing with uncollected household waste for 3 days. Location: Bairagarh, Bhopal.",Garbage / Waste
+"Complaint from resident: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: New Market, Bhopal.",Garbage / Waste
+"Severe problem reported: Uncollected trash bags emitting terrible stench near market area. Location: New Market, Bhopal.",Garbage / Waste
+"Severe problem reported: Commercial waste compactor broken spilling garbage onto footpath. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Severe problem reported: Drinking water pipeline leak spilling clean water rapidly across road. Location: Ayodhya Bypass, Bhopal.",Water Supply
+"No municipal water supply for last 48 hours in residential block. Location: Bairagarh, Bhopal.",Water Supply
+"Contaminated muddy tap water supplying low pressure to houses. Location: Ayodhya Bypass, Bhopal.",Water Supply
+"Please inspect: Water supply main valve bursting near residential gate. Location: Arera Colony, Bhopal.",Water Supply
+"Hazardous situation: Streetlights failed on 4 consecutive poles making road completely dark. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Exposed electrical wire hanging dangerously from damaged lamp post. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Street light short circuit flickering continuously at night. Location: Arera Colony, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Power transformer spark and street light outage on main avenue. Location: Arera Colony, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Open sewer line overflowing foul black water onto public street. Location: Arera Colony, Bhopal.",Drainage
+"Stormwater drain grate blocked with plastic debris causing street flooding. Location: Habibganj, Bhopal.",Drainage
+"Complaint from resident: Missing manhole cover on busy pedestrian footpath. Location: Lalghati, Bhopal.",Drainage
+"Please inspect: Clogged underground drainage pipe backing up into residential lane. Location: MP Nagar, Bhopal.",Drainage
+"Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: New Market, Bhopal.",Traffic Signal
+"Complaint from resident: Pedestrian crossing light out of order near school zone. Location: Ayodhya Bypass, Bhopal.",Traffic Signal
+"Please inspect: Traffic signal pole bent and light malfunctioning after storm. Location: Arera Colony, Bhopal.",Traffic Signal
+"Severe problem reported: Unregulated intersection traffic lights dark and failing. Location: TT Nagar, Bhopal.",Traffic Signal
+"Complaint from resident: Public park boundary wall collapsed creating safety hazard. Location: TT Nagar, Bhopal.",Public Infrastructure
+"Please inspect: Pedestrian overpass walkway railing broken and loose. Location: New Market, Bhopal.",Public Infrastructure
+"Please inspect: Bus shelter roof damaged and bench broken. Location: Habibganj, Bhopal.",Public Infrastructure
+"Please inspect: Public toilet facility door damaged and tap broken. Location: New Market, Bhopal.",Public Infrastructure
+"Severe problem reported: Loud noise pollution from illegal night loudspeaker past midnight. Location: Shahpura, Bhopal.",Other
+"Complaint from resident: Unused stray cattle roaming busy market street. Location: TT Nagar, Bhopal.",Other
+"Severe problem reported: Unauthorized hoardings blocking signboards near square. Location: Lalghati, Bhopal.",Other
+"Complaint from resident: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Bairagarh, Bhopal.",Road / Pothole
+"Severe problem reported: Asphalt road surface cracked and broken with deep crater after rains. Location: Lalghati, Bhopal.",Road / Pothole
+"Hazardous situation: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Arera Colony, Bhopal.",Road / Pothole
+"Urgent issue: Potholes and broken bitumen tarmac on flyover entry lane. Location: Arera Colony, Bhopal.",Road / Pothole
+"Hazardous situation: Garbage bins overflowing with uncollected household waste for 3 days. Location: Kolar Road, Bhopal.",Garbage / Waste
+"Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Uncollected trash bags emitting terrible stench near market area. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Severe problem reported: Commercial waste compactor broken spilling garbage onto footpath. Location: Kolar Road, Bhopal.",Garbage / Waste
+"Please inspect: Drinking water pipeline leak spilling clean water rapidly across road. Location: Habibganj, Bhopal.",Water Supply
+"No municipal water supply for last 48 hours in residential block. Location: TT Nagar, Bhopal.",Water Supply
+"Hazardous situation: Contaminated muddy tap water supplying low pressure to houses. Location: Habibganj, Bhopal.",Water Supply
+"Complaint from resident: Water supply main valve bursting near residential gate. Location: New Market, Bhopal.",Water Supply
+"Streetlights failed on 4 consecutive poles making road completely dark. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Shahpura, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Street light short circuit flickering continuously at night. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Please inspect: Power transformer spark and street light outage on main avenue. Location: Arera Colony, Bhopal.",Streetlight / Electricity
+"Open sewer line overflowing foul black water onto public street. Location: New Market, Bhopal.",Drainage
+"Stormwater drain grate blocked with plastic debris causing street flooding. Location: Lalghati, Bhopal.",Drainage
+"Severe problem reported: Missing manhole cover on busy pedestrian footpath. Location: MP Nagar, Bhopal.",Drainage
+"Severe problem reported: Clogged underground drainage pipe backing up into residential lane. Location: Arera Colony, Bhopal.",Drainage
+"Severe problem reported: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: TT Nagar, Bhopal.",Traffic Signal
+"Urgent issue: Pedestrian crossing light out of order near school zone. Location: Habibganj, Bhopal.",Traffic Signal
+"Traffic signal pole bent and light malfunctioning after storm. Location: New Market, Bhopal.",Traffic Signal
+"Urgent issue: Unregulated intersection traffic lights dark and failing. Location: Habibganj, Bhopal.",Traffic Signal
+"Please inspect: Public park boundary wall collapsed creating safety hazard. Location: Shahpura, Bhopal.",Public Infrastructure
+"Pedestrian overpass walkway railing broken and loose. Location: Shahpura, Bhopal.",Public Infrastructure
+"Urgent issue: Bus shelter roof damaged and bench broken. Location: Shahpura, Bhopal.",Public Infrastructure
+"Urgent issue: Public toilet facility door damaged and tap broken. Location: Shahpura, Bhopal.",Public Infrastructure
+"Hazardous situation: Loud noise pollution from illegal night loudspeaker past midnight. Location: New Market, Bhopal.",Other
+"Severe problem reported: Unused stray cattle roaming busy market street. Location: Shahpura, Bhopal.",Other
+"Urgent issue: Unauthorized hoardings blocking signboards near square. Location: Shahpura, Bhopal.",Other
+"Complaint from resident: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: TT Nagar, Bhopal.",Road / Pothole
+"Severe problem reported: Asphalt road surface cracked and broken with deep crater after rains. Location: Lalghati, Bhopal.",Road / Pothole
+"Hazardous situation: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Ayodhya Bypass, Bhopal.",Road / Pothole
+"Please inspect: Potholes and broken bitumen tarmac on flyover entry lane. Location: Lalghati, Bhopal.",Road / Pothole
+"Severe problem reported: Garbage bins overflowing with uncollected household waste for 3 days. Location: Kolar Road, Bhopal.",Garbage / Waste
+"Complaint from resident: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Habibganj, Bhopal.",Garbage / Waste
+"Severe problem reported: Uncollected trash bags emitting terrible stench near market area. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Commercial waste compactor broken spilling garbage onto footpath. Location: Shahpura, Bhopal.",Garbage / Waste
+"Severe problem reported: Drinking water pipeline leak spilling clean water rapidly across road. Location: Kolar Road, Bhopal.",Water Supply
+"Urgent issue: No municipal water supply for last 48 hours in residential block. Location: Lalghati, Bhopal.",Water Supply
+"Hazardous situation: Contaminated muddy tap water supplying low pressure to houses. Location: New Market, Bhopal.",Water Supply
+"Complaint from resident: Water supply main valve bursting near residential gate. Location: Kolar Road, Bhopal.",Water Supply
+"Hazardous situation: Streetlights failed on 4 consecutive poles making road completely dark. Location: Lalghati, Bhopal.",Streetlight / Electricity
+"Please inspect: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Please inspect: Street light short circuit flickering continuously at night. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Power transformer spark and street light outage on main avenue. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Open sewer line overflowing foul black water onto public street. Location: Kolar Road, Bhopal.",Drainage
+"Stormwater drain grate blocked with plastic debris causing street flooding. Location: MP Nagar, Bhopal.",Drainage
+"Complaint from resident: Missing manhole cover on busy pedestrian footpath. Location: Ayodhya Bypass, Bhopal.",Drainage
+"Urgent issue: Clogged underground drainage pipe backing up into residential lane. Location: Ayodhya Bypass, Bhopal.",Drainage
+"Complaint from resident: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Arera Colony, Bhopal.",Traffic Signal
+"Pedestrian crossing light out of order near school zone. Location: Bairagarh, Bhopal.",Traffic Signal
+"Hazardous situation: Traffic signal pole bent and light malfunctioning after storm. Location: TT Nagar, Bhopal.",Traffic Signal
+"Complaint from resident: Unregulated intersection traffic lights dark and failing. Location: Ayodhya Bypass, Bhopal.",Traffic Signal
+"Please inspect: Public park boundary wall collapsed creating safety hazard. Location: Bairagarh, Bhopal.",Public Infrastructure
+"Pedestrian overpass walkway railing broken and loose. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Severe problem reported: Bus shelter roof damaged and bench broken. Location: TT Nagar, Bhopal.",Public Infrastructure
+"Severe problem reported: Public toilet facility door damaged and tap broken. Location: TT Nagar, Bhopal.",Public Infrastructure
+"Please inspect: Loud noise pollution from illegal night loudspeaker past midnight. Location: Habibganj, Bhopal.",Other
+"Hazardous situation: Unused stray cattle roaming busy market street. Location: Kolar Road, Bhopal.",Other
+"Complaint from resident: Unauthorized hoardings blocking signboards near square. Location: Habibganj, Bhopal.",Other
+"Hazardous situation: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Arera Colony, Bhopal.",Road / Pothole
+"Hazardous situation: Asphalt road surface cracked and broken with deep crater after rains. Location: Kolar Road, Bhopal.",Road / Pothole
+"Urgent issue: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Kolar Road, Bhopal.",Road / Pothole
+"Please inspect: Potholes and broken bitumen tarmac on flyover entry lane. Location: Habibganj, Bhopal.",Road / Pothole
+"Urgent issue: Garbage bins overflowing with uncollected household waste for 3 days. Location: Habibganj, Bhopal.",Garbage / Waste
+"Complaint from resident: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: MP Nagar, Bhopal.",Garbage / Waste
+"Severe problem reported: Uncollected trash bags emitting terrible stench near market area. Location: Kolar Road, Bhopal.",Garbage / Waste
+"Severe problem reported: Commercial waste compactor broken spilling garbage onto footpath. Location: New Market, Bhopal.",Garbage / Waste
+"Urgent issue: Drinking water pipeline leak spilling clean water rapidly across road. Location: TT Nagar, Bhopal.",Water Supply
+"Hazardous situation: No municipal water supply for last 48 hours in residential block. Location: TT Nagar, Bhopal.",Water Supply
+"Hazardous situation: Contaminated muddy tap water supplying low pressure to houses. Location: New Market, Bhopal.",Water Supply
+"Complaint from resident: Water supply main valve bursting near residential gate. Location: Lalghati, Bhopal.",Water Supply
+"Hazardous situation: Streetlights failed on 4 consecutive poles making road completely dark. Location: Shahpura, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Exposed electrical wire hanging dangerously from damaged lamp post. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Street light short circuit flickering continuously at night. Location: Lalghati, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Power transformer spark and street light outage on main avenue. Location: New Market, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Open sewer line overflowing foul black water onto public street. Location: Arera Colony, Bhopal.",Drainage
+"Severe problem reported: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Habibganj, Bhopal.",Drainage
+"Hazardous situation: Missing manhole cover on busy pedestrian footpath. Location: Shahpura, Bhopal.",Drainage
+"Please inspect: Clogged underground drainage pipe backing up into residential lane. Location: Lalghati, Bhopal.",Drainage
+"Hazardous situation: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Arera Colony, Bhopal.",Traffic Signal
+"Complaint from resident: Pedestrian crossing light out of order near school zone. Location: Bairagarh, Bhopal.",Traffic Signal
+"Hazardous situation: Traffic signal pole bent and light malfunctioning after storm. Location: Habibganj, Bhopal.",Traffic Signal
+"Unregulated intersection traffic lights dark and failing. Location: New Market, Bhopal.",Traffic Signal
+"Please inspect: Public park boundary wall collapsed creating safety hazard. Location: Habibganj, Bhopal.",Public Infrastructure
+"Urgent issue: Pedestrian overpass walkway railing broken and loose. Location: Habibganj, Bhopal.",Public Infrastructure
+"Please inspect: Bus shelter roof damaged and bench broken. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Please inspect: Public toilet facility door damaged and tap broken. Location: Arera Colony, Bhopal.",Public Infrastructure
+"Severe problem reported: Loud noise pollution from illegal night loudspeaker past midnight. Location: Shahpura, Bhopal.",Other
+"Please inspect: Unused stray cattle roaming busy market street. Location: Kolar Road, Bhopal.",Other
+"Please inspect: Unauthorized hoardings blocking signboards near square. Location: Arera Colony, Bhopal.",Other
+"Urgent issue: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Bairagarh, Bhopal.",Road / Pothole
+"Urgent issue: Asphalt road surface cracked and broken with deep crater after rains. Location: New Market, Bhopal.",Road / Pothole
+"Complaint from resident: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: New Market, Bhopal.",Road / Pothole
+"Urgent issue: Potholes and broken bitumen tarmac on flyover entry lane. Location: TT Nagar, Bhopal.",Road / Pothole
+"Please inspect: Garbage bins overflowing with uncollected household waste for 3 days. Location: New Market, Bhopal.",Garbage / Waste
+"Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Severe problem reported: Uncollected trash bags emitting terrible stench near market area. Location: Lalghati, Bhopal.",Garbage / Waste
+"Hazardous situation: Commercial waste compactor broken spilling garbage onto footpath. Location: New Market, Bhopal.",Garbage / Waste
+"Complaint from resident: Drinking water pipeline leak spilling clean water rapidly across road. Location: Bairagarh, Bhopal.",Water Supply
+"Urgent issue: No municipal water supply for last 48 hours in residential block. Location: Ayodhya Bypass, Bhopal.",Water Supply
+"Hazardous situation: Contaminated muddy tap water supplying low pressure to houses. Location: MP Nagar, Bhopal.",Water Supply
+"Water supply main valve bursting near residential gate. Location: Lalghati, Bhopal.",Water Supply
+"Please inspect: Streetlights failed on 4 consecutive poles making road completely dark. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Exposed electrical wire hanging dangerously from damaged lamp post. Location: Lalghati, Bhopal.",Streetlight / Electricity
+"Urgent issue: Street light short circuit flickering continuously at night. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Power transformer spark and street light outage on main avenue. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Urgent issue: Open sewer line overflowing foul black water onto public street. Location: Habibganj, Bhopal.",Drainage
+"Complaint from resident: Stormwater drain grate blocked with plastic debris causing street flooding. Location: TT Nagar, Bhopal.",Drainage
+"Hazardous situation: Missing manhole cover on busy pedestrian footpath. Location: Lalghati, Bhopal.",Drainage
+"Please inspect: Clogged underground drainage pipe backing up into residential lane. Location: Ayodhya Bypass, Bhopal.",Drainage
+"Complaint from resident: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Bairagarh, Bhopal.",Traffic Signal
+"Urgent issue: Pedestrian crossing light out of order near school zone. Location: Lalghati, Bhopal.",Traffic Signal
+"Traffic signal pole bent and light malfunctioning after storm. Location: Ayodhya Bypass, Bhopal.",Traffic Signal
+"Complaint from resident: Unregulated intersection traffic lights dark and failing. Location: Shahpura, Bhopal.",Traffic Signal
+"Complaint from resident: Public park boundary wall collapsed creating safety hazard. Location: Bairagarh, Bhopal.",Public Infrastructure
+"Hazardous situation: Pedestrian overpass walkway railing broken and loose. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Bus shelter roof damaged and bench broken. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Urgent issue: Public toilet facility door damaged and tap broken. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Complaint from resident: Loud noise pollution from illegal night loudspeaker past midnight. Location: Kolar Road, Bhopal.",Other
+"Please inspect: Unused stray cattle roaming busy market street. Location: Habibganj, Bhopal.",Other
+"Complaint from resident: Unauthorized hoardings blocking signboards near square. Location: Bairagarh, Bhopal.",Other
+"Hazardous situation: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: MP Nagar, Bhopal.",Road / Pothole
+"Asphalt road surface cracked and broken with deep crater after rains. Location: Lalghati, Bhopal.",Road / Pothole
+"Urgent issue: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: TT Nagar, Bhopal.",Road / Pothole
+"Hazardous situation: Potholes and broken bitumen tarmac on flyover entry lane. Location: Kolar Road, Bhopal.",Road / Pothole
+"Urgent issue: Garbage bins overflowing with uncollected household waste for 3 days. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Complaint from resident: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: New Market, Bhopal.",Garbage / Waste
+"Severe problem reported: Uncollected trash bags emitting terrible stench near market area. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Commercial waste compactor broken spilling garbage onto footpath. Location: Shahpura, Bhopal.",Garbage / Waste
+"Urgent issue: Drinking water pipeline leak spilling clean water rapidly across road. Location: Ayodhya Bypass, Bhopal.",Water Supply
+"Please inspect: No municipal water supply for last 48 hours in residential block. Location: Ayodhya Bypass, Bhopal.",Water Supply
+"Complaint from resident: Contaminated muddy tap water supplying low pressure to houses. Location: Kolar Road, Bhopal.",Water Supply
+"Water supply main valve bursting near residential gate. Location: Habibganj, Bhopal.",Water Supply
+"Complaint from resident: Streetlights failed on 4 consecutive poles making road completely dark. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Please inspect: Exposed electrical wire hanging dangerously from damaged lamp post. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Urgent issue: Street light short circuit flickering continuously at night. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Power transformer spark and street light outage on main avenue. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Open sewer line overflowing foul black water onto public street. Location: Arera Colony, Bhopal.",Drainage
+"Severe problem reported: Stormwater drain grate blocked with plastic debris causing street flooding. Location: New Market, Bhopal.",Drainage
+"Missing manhole cover on busy pedestrian footpath. Location: Bairagarh, Bhopal.",Drainage
+"Urgent issue: Clogged underground drainage pipe backing up into residential lane. Location: New Market, Bhopal.",Drainage
+"Urgent issue: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Ayodhya Bypass, Bhopal.",Traffic Signal
+"Complaint from resident: Pedestrian crossing light out of order near school zone. Location: Bairagarh, Bhopal.",Traffic Signal
+"Please inspect: Traffic signal pole bent and light malfunctioning after storm. Location: Kolar Road, Bhopal.",Traffic Signal
+"Complaint from resident: Unregulated intersection traffic lights dark and failing. Location: Arera Colony, Bhopal.",Traffic Signal
+"Severe problem reported: Public park boundary wall collapsed creating safety hazard. Location: TT Nagar, Bhopal.",Public Infrastructure
+"Urgent issue: Pedestrian overpass walkway railing broken and loose. Location: Habibganj, Bhopal.",Public Infrastructure
+"Urgent issue: Bus shelter roof damaged and bench broken. Location: Lalghati, Bhopal.",Public Infrastructure
+"Severe problem reported: Public toilet facility door damaged and tap broken. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Please inspect: Loud noise pollution from illegal night loudspeaker past midnight. Location: New Market, Bhopal.",Other
+"Complaint from resident: Unused stray cattle roaming busy market street. Location: Bairagarh, Bhopal.",Other
+"Complaint from resident: Unauthorized hoardings blocking signboards near square. Location: Lalghati, Bhopal.",Other
+"Severe problem reported: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: New Market, Bhopal.",Road / Pothole
+"Hazardous situation: Asphalt road surface cracked and broken with deep crater after rains. Location: Bairagarh, Bhopal.",Road / Pothole
+"Hazardous situation: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Arera Colony, Bhopal.",Road / Pothole
+"Severe problem reported: Potholes and broken bitumen tarmac on flyover entry lane. Location: Lalghati, Bhopal.",Road / Pothole
+"Garbage bins overflowing with uncollected household waste for 3 days. Location: New Market, Bhopal.",Garbage / Waste
+"Hazardous situation: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Complaint from resident: Uncollected trash bags emitting terrible stench near market area. Location: New Market, Bhopal.",Garbage / Waste
+"Hazardous situation: Commercial waste compactor broken spilling garbage onto footpath. Location: Shahpura, Bhopal.",Garbage / Waste
+"Severe problem reported: Drinking water pipeline leak spilling clean water rapidly across road. Location: New Market, Bhopal.",Water Supply
+"Complaint from resident: No municipal water supply for last 48 hours in residential block. Location: Arera Colony, Bhopal.",Water Supply
+"Contaminated muddy tap water supplying low pressure to houses. Location: Shahpura, Bhopal.",Water Supply
+"Please inspect: Water supply main valve bursting near residential gate. Location: New Market, Bhopal.",Water Supply
+"Please inspect: Streetlights failed on 4 consecutive poles making road completely dark. Location: Kolar Road, Bhopal.",Streetlight / Electricity
+"Urgent issue: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Street light short circuit flickering continuously at night. Location: Lalghati, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Power transformer spark and street light outage on main avenue. Location: Lalghati, Bhopal.",Streetlight / Electricity
+"Urgent issue: Open sewer line overflowing foul black water onto public street. Location: MP Nagar, Bhopal.",Drainage
+"Please inspect: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Ayodhya Bypass, Bhopal.",Drainage
+"Complaint from resident: Missing manhole cover on busy pedestrian footpath. Location: Kolar Road, Bhopal.",Drainage
+"Urgent issue: Clogged underground drainage pipe backing up into residential lane. Location: Arera Colony, Bhopal.",Drainage
+"Severe problem reported: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Arera Colony, Bhopal.",Traffic Signal
+"Complaint from resident: Pedestrian crossing light out of order near school zone. Location: Arera Colony, Bhopal.",Traffic Signal
+"Hazardous situation: Traffic signal pole bent and light malfunctioning after storm. Location: Bairagarh, Bhopal.",Traffic Signal
+"Please inspect: Unregulated intersection traffic lights dark and failing. Location: Kolar Road, Bhopal.",Traffic Signal
+"Severe problem reported: Public park boundary wall collapsed creating safety hazard. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Pedestrian overpass walkway railing broken and loose. Location: TT Nagar, Bhopal.",Public Infrastructure
+"Please inspect: Bus shelter roof damaged and bench broken. Location: Lalghati, Bhopal.",Public Infrastructure
+"Hazardous situation: Public toilet facility door damaged and tap broken. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Hazardous situation: Loud noise pollution from illegal night loudspeaker past midnight. Location: Lalghati, Bhopal.",Other
+"Severe problem reported: Unused stray cattle roaming busy market street. Location: Bairagarh, Bhopal.",Other
+"Please inspect: Unauthorized hoardings blocking signboards near square. Location: TT Nagar, Bhopal.",Other
+"Please inspect: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Lalghati, Bhopal.",Road / Pothole
+"Complaint from resident: Asphalt road surface cracked and broken with deep crater after rains. Location: Arera Colony, Bhopal.",Road / Pothole
+"Complaint from resident: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Bairagarh, Bhopal.",Road / Pothole
+"Urgent issue: Potholes and broken bitumen tarmac on flyover entry lane. Location: Shahpura, Bhopal.",Road / Pothole
+"Urgent issue: Garbage bins overflowing with uncollected household waste for 3 days. Location: New Market, Bhopal.",Garbage / Waste
+"Urgent issue: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Ayodhya Bypass, Bhopal.",Garbage / Waste
+"Uncollected trash bags emitting terrible stench near market area. Location: MP Nagar, Bhopal.",Garbage / Waste
+"Hazardous situation: Commercial waste compactor broken spilling garbage onto footpath. Location: Lalghati, Bhopal.",Garbage / Waste
+"Hazardous situation: Drinking water pipeline leak spilling clean water rapidly across road. Location: Ayodhya Bypass, Bhopal.",Water Supply
+"Urgent issue: No municipal water supply for last 48 hours in residential block. Location: TT Nagar, Bhopal.",Water Supply
+"Please inspect: Contaminated muddy tap water supplying low pressure to houses. Location: Arera Colony, Bhopal.",Water Supply
+"Water supply main valve bursting near residential gate. Location: Kolar Road, Bhopal.",Water Supply
+"Streetlights failed on 4 consecutive poles making road completely dark. Location: Arera Colony, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Exposed electrical wire hanging dangerously from damaged lamp post. Location: New Market, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Street light short circuit flickering continuously at night. Location: Lalghati, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Power transformer spark and street light outage on main avenue. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Open sewer line overflowing foul black water onto public street. Location: Ayodhya Bypass, Bhopal.",Drainage
+"Hazardous situation: Stormwater drain grate blocked with plastic debris causing street flooding. Location: New Market, Bhopal.",Drainage
+"Missing manhole cover on busy pedestrian footpath. Location: MP Nagar, Bhopal.",Drainage
+"Severe problem reported: Clogged underground drainage pipe backing up into residential lane. Location: Kolar Road, Bhopal.",Drainage
+"Hazardous situation: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Shahpura, Bhopal.",Traffic Signal
+"Complaint from resident: Pedestrian crossing light out of order near school zone. Location: TT Nagar, Bhopal.",Traffic Signal
+"Complaint from resident: Traffic signal pole bent and light malfunctioning after storm. Location: Bairagarh, Bhopal.",Traffic Signal
+"Urgent issue: Unregulated intersection traffic lights dark and failing. Location: Habibganj, Bhopal.",Traffic Signal
+"Urgent issue: Public park boundary wall collapsed creating safety hazard. Location: New Market, Bhopal.",Public Infrastructure
+"Hazardous situation: Pedestrian overpass walkway railing broken and loose. Location: Lalghati, Bhopal.",Public Infrastructure
+"Bus shelter roof damaged and bench broken. Location: New Market, Bhopal.",Public Infrastructure
+"Complaint from resident: Public toilet facility door damaged and tap broken. Location: Bairagarh, Bhopal.",Public Infrastructure
+"Please inspect: Loud noise pollution from illegal night loudspeaker past midnight. Location: Kolar Road, Bhopal.",Other
+"Please inspect: Unused stray cattle roaming busy market street. Location: TT Nagar, Bhopal.",Other
+"Hazardous situation: Unauthorized hoardings blocking signboards near square. Location: Ayodhya Bypass, Bhopal.",Other
+"Complaint from resident: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Shahpura, Bhopal.",Road / Pothole
+"Hazardous situation: Asphalt road surface cracked and broken with deep crater after rains. Location: New Market, Bhopal.",Road / Pothole
+"Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Arera Colony, Bhopal.",Road / Pothole
+"Hazardous situation: Potholes and broken bitumen tarmac on flyover entry lane. Location: Bairagarh, Bhopal.",Road / Pothole
+"Complaint from resident: Garbage bins overflowing with uncollected household waste for 3 days. Location: New Market, Bhopal.",Garbage / Waste
+"Please inspect: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Severe problem reported: Uncollected trash bags emitting terrible stench near market area. Location: Ayodhya Bypass, Bhopal.",Garbage / Waste
+"Severe problem reported: Commercial waste compactor broken spilling garbage onto footpath. Location: Lalghati, Bhopal.",Garbage / Waste
+"Severe problem reported: Drinking water pipeline leak spilling clean water rapidly across road. Location: MP Nagar, Bhopal.",Water Supply
+"No municipal water supply for last 48 hours in residential block. Location: Kolar Road, Bhopal.",Water Supply
+"Complaint from resident: Contaminated muddy tap water supplying low pressure to houses. Location: Kolar Road, Bhopal.",Water Supply
+"Please inspect: Water supply main valve bursting near residential gate. Location: MP Nagar, Bhopal.",Water Supply
+"Streetlights failed on 4 consecutive poles making road completely dark. Location: New Market, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Kolar Road, Bhopal.",Streetlight / Electricity
+"Please inspect: Street light short circuit flickering continuously at night. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Please inspect: Power transformer spark and street light outage on main avenue. Location: Kolar Road, Bhopal.",Streetlight / Electricity
+"Open sewer line overflowing foul black water onto public street. Location: MP Nagar, Bhopal.",Drainage
+"Complaint from resident: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Arera Colony, Bhopal.",Drainage
+"Hazardous situation: Missing manhole cover on busy pedestrian footpath. Location: Ayodhya Bypass, Bhopal.",Drainage
+"Severe problem reported: Clogged underground drainage pipe backing up into residential lane. Location: Habibganj, Bhopal.",Drainage
+"Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Lalghati, Bhopal.",Traffic Signal
+"Complaint from resident: Pedestrian crossing light out of order near school zone. Location: Bairagarh, Bhopal.",Traffic Signal
+"Severe problem reported: Traffic signal pole bent and light malfunctioning after storm. Location: Bairagarh, Bhopal.",Traffic Signal
+"Hazardous situation: Unregulated intersection traffic lights dark and failing. Location: New Market, Bhopal.",Traffic Signal
+"Complaint from resident: Public park boundary wall collapsed creating safety hazard. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Hazardous situation: Pedestrian overpass walkway railing broken and loose. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Urgent issue: Bus shelter roof damaged and bench broken. Location: Shahpura, Bhopal.",Public Infrastructure
+"Urgent issue: Public toilet facility door damaged and tap broken. Location: Arera Colony, Bhopal.",Public Infrastructure
+"Complaint from resident: Loud noise pollution from illegal night loudspeaker past midnight. Location: MP Nagar, Bhopal.",Other
+"Severe problem reported: Unused stray cattle roaming busy market street. Location: Ayodhya Bypass, Bhopal.",Other
+"Complaint from resident: Unauthorized hoardings blocking signboards near square. Location: Lalghati, Bhopal.",Other
+"Please inspect: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Kolar Road, Bhopal.",Road / Pothole
+"Please inspect: Asphalt road surface cracked and broken with deep crater after rains. Location: Arera Colony, Bhopal.",Road / Pothole
+"Urgent issue: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Shahpura, Bhopal.",Road / Pothole
+"Complaint from resident: Potholes and broken bitumen tarmac on flyover entry lane. Location: Lalghati, Bhopal.",Road / Pothole
+"Urgent issue: Garbage bins overflowing with uncollected household waste for 3 days. Location: New Market, Bhopal.",Garbage / Waste
+"Complaint from resident: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: New Market, Bhopal.",Garbage / Waste
+"Severe problem reported: Uncollected trash bags emitting terrible stench near market area. Location: Bairagarh, Bhopal.",Garbage / Waste
+"Severe problem reported: Commercial waste compactor broken spilling garbage onto footpath. Location: Kolar Road, Bhopal.",Garbage / Waste
+"Severe problem reported: Drinking water pipeline leak spilling clean water rapidly across road. Location: Kolar Road, Bhopal.",Water Supply
+"Urgent issue: No municipal water supply for last 48 hours in residential block. Location: Kolar Road, Bhopal.",Water Supply
+"Hazardous situation: Contaminated muddy tap water supplying low pressure to houses. Location: MP Nagar, Bhopal.",Water Supply
+"Water supply main valve bursting near residential gate. Location: Habibganj, Bhopal.",Water Supply
+"Complaint from resident: Streetlights failed on 4 consecutive poles making road completely dark. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Exposed electrical wire hanging dangerously from damaged lamp post. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Street light short circuit flickering continuously at night. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Power transformer spark and street light outage on main avenue. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Open sewer line overflowing foul black water onto public street. Location: Arera Colony, Bhopal.",Drainage
+"Urgent issue: Stormwater drain grate blocked with plastic debris causing street flooding. Location: New Market, Bhopal.",Drainage
+"Severe problem reported: Missing manhole cover on busy pedestrian footpath. Location: Arera Colony, Bhopal.",Drainage
+"Clogged underground drainage pipe backing up into residential lane. Location: Shahpura, Bhopal.",Drainage
+"Hazardous situation: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Arera Colony, Bhopal.",Traffic Signal
+"Severe problem reported: Pedestrian crossing light out of order near school zone. Location: Arera Colony, Bhopal.",Traffic Signal
+"Traffic signal pole bent and light malfunctioning after storm. Location: TT Nagar, Bhopal.",Traffic Signal
+"Severe problem reported: Unregulated intersection traffic lights dark and failing. Location: Lalghati, Bhopal.",Traffic Signal
+"Urgent issue: Public park boundary wall collapsed creating safety hazard. Location: TT Nagar, Bhopal.",Public Infrastructure
+"Complaint from resident: Pedestrian overpass walkway railing broken and loose. Location: Bairagarh, Bhopal.",Public Infrastructure
+"Bus shelter roof damaged and bench broken. Location: TT Nagar, Bhopal.",Public Infrastructure
+"Complaint from resident: Public toilet facility door damaged and tap broken. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Severe problem reported: Loud noise pollution from illegal night loudspeaker past midnight. Location: Habibganj, Bhopal.",Other
+"Unused stray cattle roaming busy market street. Location: Bairagarh, Bhopal.",Other
+"Hazardous situation: Unauthorized hoardings blocking signboards near square. Location: Ayodhya Bypass, Bhopal.",Other
+"Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Arera Colony, Bhopal.",Road / Pothole
+"Severe problem reported: Asphalt road surface cracked and broken with deep crater after rains. Location: Lalghati, Bhopal.",Road / Pothole
+"Please inspect: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Bairagarh, Bhopal.",Road / Pothole
+"Please inspect: Potholes and broken bitumen tarmac on flyover entry lane. Location: Arera Colony, Bhopal.",Road / Pothole
+"Complaint from resident: Garbage bins overflowing with uncollected household waste for 3 days. Location: Habibganj, Bhopal.",Garbage / Waste
+"Please inspect: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Please inspect: Uncollected trash bags emitting terrible stench near market area. Location: New Market, Bhopal.",Garbage / Waste
+"Hazardous situation: Commercial waste compactor broken spilling garbage onto footpath. Location: MP Nagar, Bhopal.",Garbage / Waste
+"Severe problem reported: Drinking water pipeline leak spilling clean water rapidly across road. Location: Arera Colony, Bhopal.",Water Supply
+"Hazardous situation: No municipal water supply for last 48 hours in residential block. Location: Habibganj, Bhopal.",Water Supply
+"Please inspect: Contaminated muddy tap water supplying low pressure to houses. Location: New Market, Bhopal.",Water Supply
+"Water supply main valve bursting near residential gate. Location: New Market, Bhopal.",Water Supply
+"Hazardous situation: Streetlights failed on 4 consecutive poles making road completely dark. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Exposed electrical wire hanging dangerously from damaged lamp post. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Street light short circuit flickering continuously at night. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Power transformer spark and street light outage on main avenue. Location: TT Nagar, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Open sewer line overflowing foul black water onto public street. Location: Lalghati, Bhopal.",Drainage
+"Please inspect: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Habibganj, Bhopal.",Drainage
+"Please inspect: Missing manhole cover on busy pedestrian footpath. Location: Bairagarh, Bhopal.",Drainage
+"Please inspect: Clogged underground drainage pipe backing up into residential lane. Location: Bairagarh, Bhopal.",Drainage
+"Please inspect: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: TT Nagar, Bhopal.",Traffic Signal
+"Please inspect: Pedestrian crossing light out of order near school zone. Location: Lalghati, Bhopal.",Traffic Signal
+"Please inspect: Traffic signal pole bent and light malfunctioning after storm. Location: TT Nagar, Bhopal.",Traffic Signal
+"Severe problem reported: Unregulated intersection traffic lights dark and failing. Location: Habibganj, Bhopal.",Traffic Signal
+"Please inspect: Public park boundary wall collapsed creating safety hazard. Location: Arera Colony, Bhopal.",Public Infrastructure
+"Complaint from resident: Pedestrian overpass walkway railing broken and loose. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Please inspect: Bus shelter roof damaged and bench broken. Location: MP Nagar, Bhopal.",Public Infrastructure
+"Severe problem reported: Public toilet facility door damaged and tap broken. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Severe problem reported: Loud noise pollution from illegal night loudspeaker past midnight. Location: MP Nagar, Bhopal.",Other
+"Complaint from resident: Unused stray cattle roaming busy market street. Location: Shahpura, Bhopal.",Other
+"Unauthorized hoardings blocking signboards near square. Location: Arera Colony, Bhopal.",Other
+"Urgent issue: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Habibganj, Bhopal.",Road / Pothole
+"Hazardous situation: Asphalt road surface cracked and broken with deep crater after rains. Location: MP Nagar, Bhopal.",Road / Pothole
+"Hazardous situation: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: MP Nagar, Bhopal.",Road / Pothole
+"Severe problem reported: Potholes and broken bitumen tarmac on flyover entry lane. Location: Kolar Road, Bhopal.",Road / Pothole
+"Complaint from resident: Garbage bins overflowing with uncollected household waste for 3 days. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Severe problem reported: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Habibganj, Bhopal.",Garbage / Waste
+"Hazardous situation: Uncollected trash bags emitting terrible stench near market area. Location: Bairagarh, Bhopal.",Garbage / Waste
+"Urgent issue: Commercial waste compactor broken spilling garbage onto footpath. Location: MP Nagar, Bhopal.",Garbage / Waste
+"Complaint from resident: Drinking water pipeline leak spilling clean water rapidly across road. Location: Shahpura, Bhopal.",Water Supply
+"No municipal water supply for last 48 hours in residential block. Location: New Market, Bhopal.",Water Supply
+"Hazardous situation: Contaminated muddy tap water supplying low pressure to houses. Location: Kolar Road, Bhopal.",Water Supply
+"Water supply main valve bursting near residential gate. Location: New Market, Bhopal.",Water Supply
+"Severe problem reported: Streetlights failed on 4 consecutive poles making road completely dark. Location: New Market, Bhopal.",Streetlight / Electricity
+"Urgent issue: Exposed electrical wire hanging dangerously from damaged lamp post. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Urgent issue: Street light short circuit flickering continuously at night. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Power transformer spark and street light outage on main avenue. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Open sewer line overflowing foul black water onto public street. Location: Kolar Road, Bhopal.",Drainage
+"Please inspect: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Arera Colony, Bhopal.",Drainage
+"Hazardous situation: Missing manhole cover on busy pedestrian footpath. Location: Bairagarh, Bhopal.",Drainage
+"Please inspect: Clogged underground drainage pipe backing up into residential lane. Location: New Market, Bhopal.",Drainage
+"Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Shahpura, Bhopal.",Traffic Signal
+"Pedestrian crossing light out of order near school zone. Location: TT Nagar, Bhopal.",Traffic Signal
+"Complaint from resident: Traffic signal pole bent and light malfunctioning after storm. Location: TT Nagar, Bhopal.",Traffic Signal
+"Hazardous situation: Unregulated intersection traffic lights dark and failing. Location: Shahpura, Bhopal.",Traffic Signal
+"Hazardous situation: Public park boundary wall collapsed creating safety hazard. Location: Habibganj, Bhopal.",Public Infrastructure
+"Hazardous situation: Pedestrian overpass walkway railing broken and loose. Location: Ayodhya Bypass, Bhopal.",Public Infrastructure
+"Bus shelter roof damaged and bench broken. Location: Habibganj, Bhopal.",Public Infrastructure
+"Severe problem reported: Public toilet facility door damaged and tap broken. Location: Bairagarh, Bhopal.",Public Infrastructure
+"Loud noise pollution from illegal night loudspeaker past midnight. Location: Habibganj, Bhopal.",Other
+"Hazardous situation: Unused stray cattle roaming busy market street. Location: TT Nagar, Bhopal.",Other
+"Severe problem reported: Unauthorized hoardings blocking signboards near square. Location: Arera Colony, Bhopal.",Other
+"Urgent issue: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Bairagarh, Bhopal.",Road / Pothole
+"Please inspect: Asphalt road surface cracked and broken with deep crater after rains. Location: Ayodhya Bypass, Bhopal.",Road / Pothole
+"Hazardous situation: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Lalghati, Bhopal.",Road / Pothole
+"Please inspect: Potholes and broken bitumen tarmac on flyover entry lane. Location: Bairagarh, Bhopal.",Road / Pothole
+"Hazardous situation: Garbage bins overflowing with uncollected household waste for 3 days. Location: Ayodhya Bypass, Bhopal.",Garbage / Waste
+"Severe problem reported: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Urgent issue: Uncollected trash bags emitting terrible stench near market area. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Severe problem reported: Commercial waste compactor broken spilling garbage onto footpath. Location: MP Nagar, Bhopal.",Garbage / Waste
+"Urgent issue: Drinking water pipeline leak spilling clean water rapidly across road. Location: New Market, Bhopal.",Water Supply
+"Hazardous situation: No municipal water supply for last 48 hours in residential block. Location: Bairagarh, Bhopal.",Water Supply
+"Complaint from resident: Contaminated muddy tap water supplying low pressure to houses. Location: Arera Colony, Bhopal.",Water Supply
+"Complaint from resident: Water supply main valve bursting near residential gate. Location: Kolar Road, Bhopal.",Water Supply
+"Complaint from resident: Streetlights failed on 4 consecutive poles making road completely dark. Location: Arera Colony, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Urgent issue: Street light short circuit flickering continuously at night. Location: Arera Colony, Bhopal.",Streetlight / Electricity
+"Urgent issue: Power transformer spark and street light outage on main avenue. Location: Kolar Road, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Open sewer line overflowing foul black water onto public street. Location: Kolar Road, Bhopal.",Drainage
+"Please inspect: Stormwater drain grate blocked with plastic debris causing street flooding. Location: New Market, Bhopal.",Drainage
+"Complaint from resident: Missing manhole cover on busy pedestrian footpath. Location: Arera Colony, Bhopal.",Drainage
+"Severe problem reported: Clogged underground drainage pipe backing up into residential lane. Location: MP Nagar, Bhopal.",Drainage
+"Hazardous situation: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: MP Nagar, Bhopal.",Traffic Signal
+"Hazardous situation: Pedestrian crossing light out of order near school zone. Location: TT Nagar, Bhopal.",Traffic Signal
+"Please inspect: Traffic signal pole bent and light malfunctioning after storm. Location: Habibganj, Bhopal.",Traffic Signal
+"Urgent issue: Unregulated intersection traffic lights dark and failing. Location: Habibganj, Bhopal.",Traffic Signal
+"Public park boundary wall collapsed creating safety hazard. Location: MP Nagar, Bhopal.",Public Infrastructure
+"Severe problem reported: Pedestrian overpass walkway railing broken and loose. Location: TT Nagar, Bhopal.",Public Infrastructure
+"Complaint from resident: Bus shelter roof damaged and bench broken. Location: Habibganj, Bhopal.",Public Infrastructure
+"Hazardous situation: Public toilet facility door damaged and tap broken. Location: Lalghati, Bhopal.",Public Infrastructure
+"Complaint from resident: Loud noise pollution from illegal night loudspeaker past midnight. Location: Kolar Road, Bhopal.",Other
+"Complaint from resident: Unused stray cattle roaming busy market street. Location: Lalghati, Bhopal.",Other
+"Hazardous situation: Unauthorized hoardings blocking signboards near square. Location: TT Nagar, Bhopal.",Other
+"Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: Lalghati, Bhopal.",Road / Pothole
+"Urgent issue: Asphalt road surface cracked and broken with deep crater after rains. Location: MP Nagar, Bhopal.",Road / Pothole
+"Urgent issue: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: Kolar Road, Bhopal.",Road / Pothole
+"Please inspect: Potholes and broken bitumen tarmac on flyover entry lane. Location: New Market, Bhopal.",Road / Pothole
+"Complaint from resident: Garbage bins overflowing with uncollected household waste for 3 days. Location: Bairagarh, Bhopal.",Garbage / Waste
+"Severe problem reported: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: MP Nagar, Bhopal.",Garbage / Waste
+"Hazardous situation: Uncollected trash bags emitting terrible stench near market area. Location: New Market, Bhopal.",Garbage / Waste
+"Please inspect: Commercial waste compactor broken spilling garbage onto footpath. Location: Lalghati, Bhopal.",Garbage / Waste
+"Please inspect: Drinking water pipeline leak spilling clean water rapidly across road. Location: TT Nagar, Bhopal.",Water Supply
+"No municipal water supply for last 48 hours in residential block. Location: New Market, Bhopal.",Water Supply
+"Please inspect: Contaminated muddy tap water supplying low pressure to houses. Location: New Market, Bhopal.",Water Supply
+"Water supply main valve bursting near residential gate. Location: Ayodhya Bypass, Bhopal.",Water Supply
+"Severe problem reported: Streetlights failed on 4 consecutive poles making road completely dark. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Street light short circuit flickering continuously at night. Location: Habibganj, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Power transformer spark and street light outage on main avenue. Location: Kolar Road, Bhopal.",Streetlight / Electricity
+"Complaint from resident: Open sewer line overflowing foul black water onto public street. Location: Kolar Road, Bhopal.",Drainage
+"Please inspect: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Bairagarh, Bhopal.",Drainage
+"Complaint from resident: Missing manhole cover on busy pedestrian footpath. Location: Shahpura, Bhopal.",Drainage
+"Hazardous situation: Clogged underground drainage pipe backing up into residential lane. Location: Ayodhya Bypass, Bhopal.",Drainage
+"Urgent issue: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Shahpura, Bhopal.",Traffic Signal
+"Please inspect: Pedestrian crossing light out of order near school zone. Location: Arera Colony, Bhopal.",Traffic Signal
+"Urgent issue: Traffic signal pole bent and light malfunctioning after storm. Location: Shahpura, Bhopal.",Traffic Signal
+"Complaint from resident: Unregulated intersection traffic lights dark and failing. Location: Lalghati, Bhopal.",Traffic Signal
+"Complaint from resident: Public park boundary wall collapsed creating safety hazard. Location: Habibganj, Bhopal.",Public Infrastructure
+"Urgent issue: Pedestrian overpass walkway railing broken and loose. Location: MP Nagar, Bhopal.",Public Infrastructure
+"Urgent issue: Bus shelter roof damaged and bench broken. Location: TT Nagar, Bhopal.",Public Infrastructure
+"Urgent issue: Public toilet facility door damaged and tap broken. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Hazardous situation: Loud noise pollution from illegal night loudspeaker past midnight. Location: Ayodhya Bypass, Bhopal.",Other
+"Hazardous situation: Unused stray cattle roaming busy market street. Location: New Market, Bhopal.",Other
+"Unauthorized hoardings blocking signboards near square. Location: Shahpura, Bhopal.",Other
+"Urgent issue: Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: New Market, Bhopal.",Road / Pothole
+"Asphalt road surface cracked and broken with deep crater after rains. Location: Arera Colony, Bhopal.",Road / Pothole
+"Complaint from resident: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: MP Nagar, Bhopal.",Road / Pothole
+"Potholes and broken bitumen tarmac on flyover entry lane. Location: MP Nagar, Bhopal.",Road / Pothole
+"Complaint from resident: Garbage bins overflowing with uncollected household waste for 3 days. Location: Lalghati, Bhopal.",Garbage / Waste
+"Complaint from resident: Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Arera Colony, Bhopal.",Garbage / Waste
+"Urgent issue: Uncollected trash bags emitting terrible stench near market area. Location: New Market, Bhopal.",Garbage / Waste
+"Severe problem reported: Commercial waste compactor broken spilling garbage onto footpath. Location: TT Nagar, Bhopal.",Garbage / Waste
+"Urgent issue: Drinking water pipeline leak spilling clean water rapidly across road. Location: Arera Colony, Bhopal.",Water Supply
+"Hazardous situation: No municipal water supply for last 48 hours in residential block. Location: New Market, Bhopal.",Water Supply
+"Please inspect: Contaminated muddy tap water supplying low pressure to houses. Location: Habibganj, Bhopal.",Water Supply
+"Urgent issue: Water supply main valve bursting near residential gate. Location: MP Nagar, Bhopal.",Water Supply
+"Urgent issue: Streetlights failed on 4 consecutive poles making road completely dark. Location: Bairagarh, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Exposed electrical wire hanging dangerously from damaged lamp post. Location: New Market, Bhopal.",Streetlight / Electricity
+"Urgent issue: Street light short circuit flickering continuously at night. Location: New Market, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Power transformer spark and street light outage on main avenue. Location: MP Nagar, Bhopal.",Streetlight / Electricity
+"Open sewer line overflowing foul black water onto public street. Location: Ayodhya Bypass, Bhopal.",Drainage
+"Please inspect: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Kolar Road, Bhopal.",Drainage
+"Urgent issue: Missing manhole cover on busy pedestrian footpath. Location: Kolar Road, Bhopal.",Drainage
+"Please inspect: Clogged underground drainage pipe backing up into residential lane. Location: Bairagarh, Bhopal.",Drainage
+"Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: MP Nagar, Bhopal.",Traffic Signal
+"Severe problem reported: Pedestrian crossing light out of order near school zone. Location: Ayodhya Bypass, Bhopal.",Traffic Signal
+"Complaint from resident: Traffic signal pole bent and light malfunctioning after storm. Location: Shahpura, Bhopal.",Traffic Signal
+"Please inspect: Unregulated intersection traffic lights dark and failing. Location: MP Nagar, Bhopal.",Traffic Signal
+"Urgent issue: Public park boundary wall collapsed creating safety hazard. Location: New Market, Bhopal.",Public Infrastructure
+"Hazardous situation: Pedestrian overpass walkway railing broken and loose. Location: Kolar Road, Bhopal.",Public Infrastructure
+"Please inspect: Bus shelter roof damaged and bench broken. Location: Lalghati, Bhopal.",Public Infrastructure
+"Public toilet facility door damaged and tap broken. Location: Lalghati, Bhopal.",Public Infrastructure
+"Urgent issue: Loud noise pollution from illegal night loudspeaker past midnight. Location: Bairagarh, Bhopal.",Other
+"Please inspect: Unused stray cattle roaming busy market street. Location: Lalghati, Bhopal.",Other
+"Unauthorized hoardings blocking signboards near square. Location: Kolar Road, Bhopal.",Other
+"Huge dangerous pothole on main road causing severe traffic slowdown near bus stop. Location: New Market, Bhopal.",Road / Pothole
+"Complaint from resident: Asphalt road surface cracked and broken with deep crater after rains. Location: Lalghati, Bhopal.",Road / Pothole
+"Severe problem reported: Unpaved road shoulder collapsed near crossroad creating accident hazard. Location: MP Nagar, Bhopal.",Road / Pothole
+"Severe problem reported: Potholes and broken bitumen tarmac on flyover entry lane. Location: Ayodhya Bypass, Bhopal.",Road / Pothole
+"Complaint from resident: Garbage bins overflowing with uncollected household waste for 3 days. Location: Bairagarh, Bhopal.",Garbage / Waste
+"Illegal dumping of plastic waste, debris, and refuse along public alley. Location: Shahpura, Bhopal.",Garbage / Waste
+"Hazardous situation: Uncollected trash bags emitting terrible stench near market area. Location: Lalghati, Bhopal.",Garbage / Waste
+"Please inspect: Commercial waste compactor broken spilling garbage onto footpath. Location: Habibganj, Bhopal.",Garbage / Waste
+"Severe problem reported: Drinking water pipeline leak spilling clean water rapidly across road. Location: Bairagarh, Bhopal.",Water Supply
+"Urgent issue: No municipal water supply for last 48 hours in residential block. Location: TT Nagar, Bhopal.",Water Supply
+"Complaint from resident: Contaminated muddy tap water supplying low pressure to houses. Location: Habibganj, Bhopal.",Water Supply
+"Urgent issue: Water supply main valve bursting near residential gate. Location: New Market, Bhopal.",Water Supply
+"Complaint from resident: Streetlights failed on 4 consecutive poles making road completely dark. Location: Kolar Road, Bhopal.",Streetlight / Electricity
+"Please inspect: Exposed electrical wire hanging dangerously from damaged lamp post. Location: Lalghati, Bhopal.",Streetlight / Electricity
+"Hazardous situation: Street light short circuit flickering continuously at night. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Severe problem reported: Power transformer spark and street light outage on main avenue. Location: Ayodhya Bypass, Bhopal.",Streetlight / Electricity
+"Urgent issue: Open sewer line overflowing foul black water onto public street. Location: Habibganj, Bhopal.",Drainage
+"Please inspect: Stormwater drain grate blocked with plastic debris causing street flooding. Location: Lalghati, Bhopal.",Drainage
+"Complaint from resident: Missing manhole cover on busy pedestrian footpath. Location: Lalghati, Bhopal.",Drainage
+"Urgent issue: Clogged underground drainage pipe backing up into residential lane. Location: Habibganj, Bhopal.",Drainage
+"Severe problem reported: Traffic signals stuck on red at busy 4-way intersection causing gridlock. Location: Habibganj, Bhopal.",Traffic Signal
+"Hazardous situation: Pedestrian crossing light out of order near school zone. Location: Habibganj, Bhopal.",Traffic Signal
+"Traffic signal pole bent and light malfunctioning after storm. Location: Ayodhya Bypass, Bhopal.",Traffic Signal
+"Severe problem reported: Unregulated intersection traffic lights dark and failing. Location: Lalghati, Bhopal.",Traffic Signal
+"Public park boundary wall collapsed creating safety hazard. Location: Bairagarh, Bhopal.",Public Infrastructure
+"Hazardous situation: Pedestrian overpass walkway railing broken and loose. Location: MP Nagar, Bhopal.",Public Infrastructure
+"Severe problem reported: Bus shelter roof damaged and bench broken. Location: Habibganj, Bhopal.",Public Infrastructure
+"Complaint from resident: Public toilet facility door damaged and tap broken. Location: New Market, Bhopal.",Public Infrastructure
+"Complaint from resident: Loud noise pollution from illegal night loudspeaker past midnight. Location: Kolar Road, Bhopal.",Other
+"Urgent issue: Unused stray cattle roaming busy market street. Location: TT Nagar, Bhopal.",Other
+"Unauthorized hoardings blocking signboards near square. Location: Lalghati, Bhopal.",Other
